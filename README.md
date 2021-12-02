@@ -7,7 +7,6 @@ let will = new codeLover {
     location: ["cotonou, bj"],
     contact: ["kirinago66@gmail.com"],
     portfolio: ["https://wilfriedago.netlify.app/"],
-    collaborations: ["IoT", "robotics", "pentesting", "security research techniques","embedded systems engineering", "web development"],
     workingOn: ["building a solid career in the cyber-security field here in my country..."],
     learning: ["node.js", "reactjs", "devOps with aws", "mearn stack", "three.js", "java", "web accesibility"],
     pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs","tech", "crypto","nft", "music"],
