@@ -53,4 +53,3 @@ let will = new codeLover {
  <a href="https://twitter.com/dev_willy"><img src="https://img.icons8.com/stickers/50/000000/twitter.png" alt="Twitter"/></a>
     <a href="https://wa.me/22962000975?text=Hi+!+I+text+you+from+your+Github+profile+!"><img src="https://img.icons8.com/stickers/50/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
-<p align="center"> <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/3.png" /> </p>
