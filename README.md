@@ -21,8 +21,6 @@ let will = new codeLover {
     }
 };
 ```
-
-<p align="center"> <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/3.gif" /> </p>
 <h3 align="center">Tech Stack 🤖:</h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
