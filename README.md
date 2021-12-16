@@ -29,7 +29,7 @@ let will = new codeLover {
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript(ES6+)-ffb400?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ffb400?style=flat-square&logo=java&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-ffb400?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
