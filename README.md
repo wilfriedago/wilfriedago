@@ -5,15 +5,15 @@
 let will = new codeLover {
     pronouns: "he" | "him",
     location: ["cotonou, bj"],
-    contact: ["kirinago66@gmail.com"],
+    contact: ["wilfriedago@pm.me"],
     portfolio: ["https://wilfriedago.netlify.app/"],
     workingOn: ["building a solid career in the cyber-security field here in my country..."],
     learning: ["node.js", "reactjs", "devOps with aws", "mearn stack", "three.js", "java", "web accesibility"],
-    pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs","tech", "crypto","nft", "music"],
+    pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs", "tech", "crypto","nft", "music"],
     hobbies: {
         major: {
             indoor: ["gaming","reading","watching animes"],
-            outdoor: ["traveling", "go to gym", "skate", "teaching"],
+            outdoor: ["traveling", "go to gym", "teaching"],
         },
         funFact: {
             secret: ["I freaking love music", "pubg mobile player", "coffee addict"],
