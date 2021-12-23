@@ -45,7 +45,6 @@ let will = new codeLover {
 <h2 align="center">Let's Connect ✌</h2></a>
 <p align="center">
  <a href="https://www.reddit.com/user/backTo999"><img src="https://img.icons8.com/stickers/50/000000/reddit.png" alt="Reddit"/></a>
- <a href="https://github.com/wilfriedago"><img src="https://img.icons8.com/stickers/50/000000/github.png" alt="GitHub"/></a>
  <a href="https://www.linkedin.com/in/wilfriedago/"><img src="https://img.icons8.com/stickers/50/000000/linkedin.png" alt="LinkedIn"/></a>
  <a href="https://facebook.com/wilfried.kirin.ago/"><img src="https://img.icons8.com/stickers/50/000000/facebook-new.png" alt="Facebook"/></a>
  <a href="https://www.instagram.com/dev.willy"><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png" alt="Instagram"/></a>
