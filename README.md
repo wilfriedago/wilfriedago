@@ -34,6 +34,7 @@ let will = new codeLover {
   <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+p align="center"><img src="https://readme-jokes.vercel.app/api" alt=""/></p>
 
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="wilfriedago"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedago&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="wilfriedago"/> </p>
 <h3 align="center">I'm currently vibing to 🎧</h3>
@@ -44,7 +45,6 @@ let will = new codeLover {
 
 <h2 align="center">Let's Connect ✌</h2></a>
 <p align="center">
- ![Jokes Card](https://readme-jokes.vercel.app/api)
  <a href="https://www.reddit.com/user/backTo999"><img src="https://img.icons8.com/stickers/50/000000/reddit.png" alt="Reddit"/></a>
  <a href="https://www.linkedin.com/in/wilfriedago/"><img src="https://img.icons8.com/stickers/50/000000/linkedin.png" alt="LinkedIn"/></a>
  <a href="https://facebook.com/wilfried.kirin.ago/"><img src="https://img.icons8.com/stickers/50/000000/facebook-new.png" alt="Facebook"/></a>
