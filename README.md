@@ -23,16 +23,16 @@ let will = new codeLover {
 ```
 <h3 align="center">Tech Stack 🤖:</h3>
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C language" src="https://img.shields.io/badge/-C-ffb400?style=flat-square&logo=c&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript(ES6+)-ffb400?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ffb400?style=flat-square&logo=java&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffb400?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-ffb400?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-ffb400?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-5934d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-5934d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C language" src="https://img.shields.io/badge/-C-5934d8?style=flat-square&logo=c&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-5934d8?style=flat-square&logo=php&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript(ES6+)-5934d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-5934d8?style=flat-square&logo=java&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-5934d8?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-5934d8?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-5934d8?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-5934d8?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 <p align="center" height='130px'> <img src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="wilfriedago"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedago&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="wilfriedago"/> </p>
 <h3 align="center">I'm currently vibing to 🎧</h3>
