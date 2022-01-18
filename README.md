@@ -43,7 +43,7 @@ let will = new codeLover {
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Playing actually on Spotify" height="300px"/>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=313vfnqqtujewg7wopvoz4aplizy" alt="Recently Played songs Spotify" height="300px"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
 </p>
 
 <h2 align="center">Let's Connect ✌</h2></a>
