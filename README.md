@@ -42,8 +42,8 @@ let will = new codeLover {
 
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=a4gpfy03ircjyqo1gkkps9kni&cover_image=true&theme=compact" alt="spotify" height="300px"/>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=a4gpfy03ircjyqo1gkkps9kni" alt="spotify" height="300px"/>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=compact" alt="spotify" height="300px"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=313vfnqqtujewg7wopvoz4aplizy" alt="spotify" height="300px"/>
 </p>
 
 <h2 align="center">Let's Connect ✌</h2></a>
