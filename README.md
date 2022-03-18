@@ -3,6 +3,7 @@
  <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/1.png" /> </p>
 <p align="center"> <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/2.png" /> </p>
 <p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
+
 ```javascript
 let will = new codeLover {
     pronouns: "he" | "him",
