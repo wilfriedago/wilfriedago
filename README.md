@@ -41,7 +41,6 @@ let will = new codeLover {
     <img src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,ffb400,ffb400,F6C03D,F4DDA6&count_private=true&theme=graywhite" alt="wilfriedago"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedago&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="wilfriedago"/>
 </p>
-<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 <h3 align="center">I'm currently vibing to 🎧</h3>
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Playing actually on Spotify" height="300px"/>
