@@ -1,7 +1,8 @@
+<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 <p align="center">
  <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/1.png" /> </p>
 <p align="center"> <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/2.png" /> </p>
-
+<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 ```javascript
 let will = new codeLover {
     pronouns: "he" | "him",
@@ -22,7 +23,6 @@ let will = new codeLover {
     }
 };
 ```
-<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 <h2 align="center">Tech Stack 🤖:</h2>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
@@ -46,7 +46,6 @@ let will = new codeLover {
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Playing actually on Spotify" height="300px"/>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
 </p>
-<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 <h2 align="center">Let's Connect ✌</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/wilfriedago/"><img src="https://img.icons8.com/stickers/50/000000/linkedin.png" alt="LinkedIn"/></a>
