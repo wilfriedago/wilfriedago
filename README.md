@@ -5,7 +5,7 @@
 <p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 
 ```javascript
-let will = new codeLover {
+let will = new Coder {
     pronouns: "he" | "him",
     location: ["cotonou, bj"],
     contact: ["wilfriedago@pm.me"],
