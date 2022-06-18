@@ -26,7 +26,8 @@ let will = new Coder {
 ```
 <h2 align="center">Tech Stack 🤖:</h2>
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
+   <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-ffb400?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="React.js" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
   <img alt="C language" src="https://img.shields.io/badge/-C-ffb400?style=flat-square&logo=c&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ffb400?style=flat-square&logo=php&logoColor=white" />
