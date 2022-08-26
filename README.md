@@ -9,7 +9,7 @@ let will = new Coder {
     location: ["cotonou, bj"],
     contact: ["wilfriedago@pm.me"],
     portfolio: ["https://wilfriedago.netlify.app/"],
-    workingOn: ["building a solid career in the cyber-security field here in my country..."],
+    workingOn: ["building a solid career in software engineering field here in my country..."],
     learning: ["node.js", "reactjs", "devOps with aws", "mearn stack", "three.js", "java", "web accesibility"],
     pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs", "tech", "crypto","nft", "music"],
     hobbies: {
