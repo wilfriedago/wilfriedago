@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 
 ```javascript
-let will = new Coder {
+let will = new Coder({
     pronouns: "he" | "him",
     location: ["cotonou, bj"],
     contact: ["wilfriedago@pm.me"],
@@ -21,7 +21,7 @@ let will = new Coder {
             secret: ["I freaking love music", "pubg mobile player", "coffee addict"],
         }
     }
-};
+});
 ```
 <h2 align="center">Tech Stack 🤖:</h2>
 <p align="center">
