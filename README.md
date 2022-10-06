@@ -49,8 +49,8 @@ let will = new Coder({
 </p>
 <h2 align="center">Let's Connect ✌</h2>
 <p align="center">
- <a href="https://www.linkedin.com/in/wilfriedago/" target="_blank"><img src="https://img.icons8.com/stickers/50/000000/linkedin.png" alt="LinkedIn"/></a>
- <a href="https://facebook.com/wilfried.kirin.ago/" target="_blank"><img src="https://img.icons8.com/stickers/50/000000/facebook-new.png" alt="Facebook"/></a>
- <a href="https://www.instagram.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png" alt="Instagram"/></a>
- <a href="https://twitter.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/stickers/50/000000/twitter.png" alt="Twitter"/></a>
+ <a href="https://www.linkedin.com/in/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/linkedin.png" alt="LinkedIn"/></a>
+ <a href="https://angel.co/u/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/angelist.png" alt="Facebook"/></a>
+ <a href="https://www.instagram.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/nolan/50/instagram.png" alt="Instagram"/></a>
+ <a href="https://twitter.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/nolan/50/twitter.png" alt="Twitter"/></a>
 </p>
