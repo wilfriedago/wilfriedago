@@ -40,7 +40,7 @@ let will = new Coder({
 
 <p align="center" height='130px'> 
     <img src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&hide_title=true&theme=radical&count_private=true" alt="wilfriedago"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedago&layout=compact&show_icons=true&bg_color=0,EFE4CA,F4DDA6,F6C03D&theme=graywhite&hide_title=true" alt="wilfriedago"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedago&layout=compact&show_icons=true&theme=radical&hide_title=true" alt="wilfriedago"/>
 </p>
 <h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
