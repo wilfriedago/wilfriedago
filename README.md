@@ -9,7 +9,7 @@ let will = new Coder({
     contact: ["contact@wilfriedago.me"],
     portfolio: ["https://wilfriedago.me/"],
     workingOn: ["building a solid career in software engineering field here in my country..."],
-    learning: ["node.js", "reactjs", "devOps with digital ocean", "mearn stack", "gsap.js", "java", "web accesibility"],
+    learning: ["reactjs", "devOps with digital ocean", "mearn stack", "gsap.js", "web accesibility"],
     pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs", "tech", "crypto","nft", "music"],
     hobbies: {
         major: {
