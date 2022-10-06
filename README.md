@@ -7,8 +7,8 @@
 let will = new Coder({
     pronouns: "he" | "him",
     location: ["cotonou, bj"],
-    contact: ["wilfriedago@pm.me"],
-    portfolio: ["https://wilfriedago.netlify.app/"],
+    contact: ["contact@wilfriedago.me"],
+    portfolio: ["https://wilfriedago.me/"],
     workingOn: ["building a solid career in software engineering field here in my country..."],
     learning: ["node.js", "reactjs", "devOps with aws", "mearn stack", "three.js", "java", "web accesibility"],
     pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs", "tech", "crypto","nft", "music"],
