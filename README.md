@@ -1,4 +1,3 @@
-<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
 <p align="center">
  <img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/1.png" /> </p>
 <p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
@@ -10,20 +9,20 @@ let will = new Coder({
     contact: ["contact@wilfriedago.me"],
     portfolio: ["https://wilfriedago.me/"],
     workingOn: ["building a solid career in software engineering field here in my country..."],
-    learning: ["node.js", "reactjs", "devOps with aws", "mearn stack", "three.js", "java", "web accesibility"],
+    learning: ["node.js", "reactjs", "devOps with digital ocean", "mearn stack", "gsap.js", "java", "web accesibility"],
     pingMeAbout: ["emerging trends", "web dev", "darknet diaries", "reactjs", "tech", "crypto","nft", "music"],
     hobbies: {
         major: {
-            indoor: ["gaming","reading","watching animes"],
+            indoor: ["gaming", "reading", "watching animes"],
             outdoor: ["traveling", "go to gym", "teaching"],
         },
         funFact: {
-            secret: ["I freaking love music", "pubg mobile player", "coffee addict"],
+            secret: ["I freaking love music", "pubg mobile player"],
         }
     }
 });
 ```
-<h2 align="center">Tech Stack 🤖:</h2>
+<h2 align="center">Tech Stack 🤖</h2>
 <p align="center">
    <img alt="Vue.js" src="https://img.shields.io/badge/-vue.js-ffb400?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="React.js" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
