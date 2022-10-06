@@ -50,7 +50,8 @@ let will = new Coder({
 <h2 align="center">Let's Connect ✌</h2>
 <p align="center">
  <a href="https://www.linkedin.com/in/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/linkedin.png" alt="LinkedIn"/></a>
- <a href="https://angel.co/u/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/angelist.png" alt="Facebook"/></a>
+ <a href="https://angel.co/u/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/angelist.png" alt="Ange list"/></a>
  <a href="https://www.instagram.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/nolan/50/instagram-new.png" alt="Instagram"/></a>
  <a href="https://twitter.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/nolan/50/twitter.png" alt="Twitter"/></a>
+ <a href="https://github.com/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/github.png" alt="Github"/></a>
 </p>
