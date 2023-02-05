@@ -45,11 +45,6 @@ let will = new Coder({
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="Astro" src="https://img.shields.io/badge/-Astro-0f172a?style=flat-square&logo=astro" />
 </p>
-
-<p align="center" height='130px'> 
-    <img src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&hide_title=true&theme=radical&count_private=true" alt="wilfriedago"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilfriedago&layout=compact&show_icons=true&theme=radical&hide_title=true" alt="wilfriedago"/>
-</p>
 <h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Playing actually on Spotify" height="300px"/>
