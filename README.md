@@ -1,5 +1,3 @@
-<p align="center"><img src="https://github.com/wilfriedago/wilfriedago/blob/main/assets/separator.gif"/></p>
-
 ```javascript
 let will = new Coder({
     location: ["cotonou, bj"],
