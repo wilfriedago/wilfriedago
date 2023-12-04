@@ -41,7 +41,8 @@ let will = new Coder({
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="Astro" src="https://img.shields.io/badge/-Astro-0f172a?style=flat-square&logo=astro" />
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-0f172a?style=flat-square&logo=astro" />
+  [![wakatime](https://wakatime.com/badge/user/3576ba75-e4b9-489c-be3e-54c02c4c9b10.svg)](https://wakatime.com/@3576ba75-e4b9-489c-be3e-54c02c4c9b10)
 </p>
 <h2 align="center">I'm currently vibing to 🎧</h2>
 <p align="center">
