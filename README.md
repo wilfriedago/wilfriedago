@@ -5,6 +5,7 @@
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:wilfriedago@pm.me)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/wilfriedago_)
+[![linkedin](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color)](https://linkedin.com/in/wilfriedago)
 
 Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger][blog]. I spend my days building full-stack applications and tools in Python, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Django](https://github.com/django/django), [HTMX](https://github.com/bigskysoftware/htmx), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [FastAPI](https://github.com/tiangolo/fastapi) (async Python has piqued my interest).
 
