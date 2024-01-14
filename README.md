@@ -15,7 +15,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
 ## Current Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=ts,java,nodejs,react,aws,redis,postgres,linux,docker,nginx,vscode,idea,js,git,github,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,php,nextjs,nestjs,spring,laravel,aws,postgres,docker,vscode,idea,git,github,tailwind)](https://skillicons.dev)
 
 ## Language and Tools to Learn
 
