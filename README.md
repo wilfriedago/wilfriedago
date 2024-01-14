@@ -21,12 +21,6 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 ## Languages and tools to Learn
 
 [![My learing](https://skillicons.dev/icons?i=kotlin,terraform,rust,kafka,apollo,graphql,elasticsearch,prometheus,grafana,kubernetes,tauri)](https://wilfriedago.dev/learning)
-
-## I'm currently vibing to 🎧
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Playing actually on Spotify" height="300px"/>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=313vfnqqtujewg7wopvoz4aplizy&cover_image=true&theme=default" alt="Recently Played songs Spotify" height="300px"/>
-</p
  
 [website]: https://wilfriedago.dev
 [blog]: https://wilfriedago.dev/blog
