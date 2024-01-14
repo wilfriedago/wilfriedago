@@ -1,4 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header"/>
+[![Banner](https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header)][website]
+
+## Hello there, I'm [Will][website] 👋🏾
+
+[![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
+[![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:wilfriedago@pm.me)
+[![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/wilfriedago_)
+
+Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger][blog]. I spend my days building full-stack applications and tools in Python, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Django](https://github.com/django/django), [HTMX](https://github.com/bigskysoftware/htmx), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [FastAPI](https://github.com/tiangolo/fastapi) (async Python has piqued my interest).
+
+- 🔭 Currently diving into SpringBoot with Kotlin.
+- 👯 Open to new work and collaboration opportunities.
+- ✍️ I express my thoughts through writing to refine my ideas.
+- 🧠 You'll often find me digging into my **second-brain** folder on my laptop—it's a handy resource!
 
 ```javascript
 let will = new Coder({
@@ -59,5 +72,9 @@ let will = new Coder({
  <a href="https://twitter.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/nolan/50/twitter.png" alt="Twitter"/></a>
  <a href="https://github.com/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/github.png" alt="Github"/></a>
 </p>
+
+[website]: https://wilfriedago.dev
+[blog]: https://wilfriedago.dev/blog
+[projects]: https://wilfriedago.dev/projects
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=footer"/>
