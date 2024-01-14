@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header"/>
+
 ```javascript
 let will = new Coder({
     location: ["cotonou, bj"],
@@ -57,3 +59,5 @@ let will = new Coder({
  <a href="https://twitter.com/wilfriedago_" target="_blank"><img src="https://img.icons8.com/nolan/50/twitter.png" alt="Twitter"/></a>
  <a href="https://github.com/wilfriedago" target="_blank"><img src="https://img.icons8.com/nolan/50/github.png" alt="Github"/></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=footer"/>
