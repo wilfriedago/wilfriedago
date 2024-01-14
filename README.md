@@ -1,4 +1,4 @@
-[![Banner](https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header)][website]
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header"/>
 
 ## Hello there, I'm [Will][website] 👋🏾
 
@@ -12,6 +12,14 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 - 👯 Open to new work and collaboration opportunities.
 - ✍️ I express my thoughts through writing to refine my ideas.
 - 🧠 You'll often find me digging into my **second-brain** folder on my laptop—it's a handy resource!
+
+## Current Languages and tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,aws,redis,postgres,linux,docker,nginx,vscode,idea,js,alpinejs,git,github,netlify,md,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
+## Language and Tools to Learn
+
+<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,go,wasm,lit,godot&theme=dark&perline=10">
 
 ```javascript
 let will = new Coder({
