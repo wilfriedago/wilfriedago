@@ -20,7 +20,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
 ## Languages and tools to Learn
 
-[![My learing](https://skillicons.dev/icons?i=kotlin,terraform,rust,kafka,apollo,graphql,elasticsearch,prometheus,grafana,kubernetes,tauri)](https://wilfriedago.dev/learning)
+[![My learing](https://skillicons.dev/icons?i=kotlin,terraform,rust,kafka,apollo,graphql,elasticsearch,prometheus,grafana,kubernetes,tauri,swift)](https://wilfriedago.dev/learning)
  
 [website]: https://wilfriedago.dev
 [blog]: https://wilfriedago.dev/blog
