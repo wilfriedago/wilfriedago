@@ -21,6 +21,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [blog]: https://wilfriedago.dev/blog
 [projects]: https://wilfriedago.dev/projects
 
+## Get in touch with me
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:wilfriedago@pm.me)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/wilfriedago_)
