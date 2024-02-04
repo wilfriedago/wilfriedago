@@ -8,14 +8,6 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 - 👯 Open to new work and collaboration opportunities.
 - ✍️ I express my thoughts through writing to refine my ideas.
 - 🧠 You'll often find me digging into my **second-brain** folder on my laptop—it's a handy resource!
-
-## Current languages and tools
-
-[![My Skills](https://skillicons.dev/icons?i=ts,java,php,python,nextjs,nestjs,spring,laravel,tailwind,postgres,mongodb,docker,nginx,gradle,aws,figma,git,github,githubactions)](https://wilfriedago.dev/skills)
-
-## Languages and tools to learn
-
-[![My learing](https://skillicons.dev/icons?i=kotlin,terraform,rust,kafka,apollo,graphql,elasticsearch,prometheus,grafana,kubernetes,tauri,swift)](https://wilfriedago.dev/learning)
  
 [website]: https://wilfriedago.dev
 [blog]: https://wilfriedago.dev/blog
