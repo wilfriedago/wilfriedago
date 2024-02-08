@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=302c47&height=120&section=header"/>
 
 ## Hello there, I'm [Will][website] 👋🏾
@@ -13,11 +14,16 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [blog]: https://wilfriedago.dev/blog
 [projects]: https://wilfriedago.dev/projects
 
-## 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilfriedago" alt="Wilfried AGO LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfriedago&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Wilfried AGO language" height="192px"  width="500px"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilfriedago&theme=dark" alt="Wilfried AGO LangStat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfriedago&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Wilfried AGO language" height="192px"  width="500px"/>
 </div>
+
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wilfriedago&show_icons=true" />
+</details>
 
 ## Get in touch with me
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
