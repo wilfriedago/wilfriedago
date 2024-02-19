@@ -15,18 +15,12 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [projects]: https://wilfriedago.dev/projects
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilfriedago&theme=dark" alt="Wilfried AGO LangStat" />
 
-<details>
   <summary><b>:zap: Top languages</b></summary>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfriedago&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Wilfried AGO language" height="192px"  width="500px"/>
-</details>
 
-<details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wilfriedago&show_icons=true&theme=dark" />
-</details>
-
 ## Get in touch with me
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:wilfriedago@pm.me)
