@@ -21,6 +21,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wilfriedago&show_icons=true&theme=dark" />
+  
 ## Get in touch with me
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:wilfriedago@pm.me)
