@@ -13,14 +13,6 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [website]: https://wilfriedago.dev
 [blog]: https://wilfriedago.dev/blog
 [projects]: https://wilfriedago.dev/projects
-
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35"> 
-
-  <summary><b>:zap: Top languages</b></summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilfriedago&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Wilfried AGO language" height="192px"  width="500px"/>
-
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wilfriedago&show_icons=true&theme=dark" />
   
 ## Get in touch with me
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
