@@ -19,6 +19,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: Binary YAML JSON TOML
           COMMIT_MESSAGE: 'chore: updated waka-readme graph with new metrics'
           TARGET_BRANCH: main
           COMMITTER_NAME: 'Wilfried AGO'
