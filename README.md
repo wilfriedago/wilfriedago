@@ -15,4 +15,4 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [![web](https://img.shields.io/badge/WEB-12100E?logo=google-earth&color=282A36)][website]
 [![email](https://img.shields.io/badge/PROTONMAIL-12100E?logo=protonmail&color=282A36)](mailto:wilfriedago@pm.me)
 [![twitter](https://img.shields.io/badge/TWITTER-12100E?logo=twitter&color=282A36)](https://twitter.com/wilfriedago_)
-[![linkedin](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36)](https://linkedin.com/in/wilfriedago
+[![linkedin](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36)](https://linkedin.com/in/wilfriedago)
