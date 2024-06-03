@@ -13,6 +13,29 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [![email](https://img.shields.io/badge/MAIL-12100E?logo=mailgun&color=282A36)][mail]
 [![linkedin](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36)](https://linkedin.com/in/wilfriedago)
 
+## Current Languages and tools
+
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgres,typescript,fastapi,aws,redis,linux,docker,nginx,vscode,idea,js,git,github,md,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
+## Language and Tools to Learn
+
+<img alt="To Learn" src="https://skill-icons.tobidegnon.workers.dev/icons?i=elixir,phoenix,lua,go,wasm,lit,godot&theme=dark&perline=10">
+
+---
+<details>
+  <summary>:zap: Github Stats</summary>
+
+<br/>
+<p align="left">
+  <a href="https://wilfriedago.dev/">
+    <img width="49.5%" src="https://stats.oluwatobi.dev/api/?username=Tobi-De&show_icons=true&hide_border=true&theme=dracula" />
+    <img width="49.5%" src="https://streak.oluwatobi.dev/?user=Tobi-De&theme=dracula&hide_border=true&exclude_days=Sun" />
+  </a>
+</p>
+<br>
+
+ </details>
+
 ## Coding activity (last 7 days)
 <!--START_SECTION:waka-->
 
