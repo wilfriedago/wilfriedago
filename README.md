@@ -14,25 +14,18 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 [![email](https://img.shields.io/badge/MAIL-12100E?logo=mailgun&color=282A36)][mail]
 [![linkedin](https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36)][linkedin]
 
-<details>
-	<summary>:zap:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
-  <br/>
+## :zap: Skills
 
-  <img src="https://skillicons.dev/icons?i=typescript,python,kotlin,django,spring,fastapi,nodejs,nest,laravel,aws,java,redis,linux,docker,nginx,vscode,idea,js,git,github,md,html,css,tailwind&perline=12" alt="My skills"/>
-  <br/>
-</details>
+[![My skills](https://skillicons.dev/icons?i=typescript,python,kotlin,django,spring,fastapi,nodejs,nest,laravel,aws,java,redis,linux,docker,nginx,vscode,idea,js,git,github,md,html,css,tailwind&perline=12)](https://skillicons.dev)
 
-<details>
-  <summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+## 📊 GitHub Stats
 
-  <br/>
-    <p align="left">
+<p align="left">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&count_private=true&title_color=10b981&icon_color=10b981&theme=react&hide_border=true&rank_icon=github" />
 	<img width="49.5%" src="https://streak-stats.demolab.com/?user=wilfriedago&hide_border=true&theme=react&ring=10b981&fire=fff&currStreakNum=fff&sideLabels=10b981&currStreakLabel=10b981&sideNums=fff" />
-    </p>
-</details>
+</p>
 
-## Coding activity (last 7 days)
+## 🕐 Coding activity (last 7 days)
 <!--START_SECTION:waka-->
 
 ```python
