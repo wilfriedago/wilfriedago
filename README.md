@@ -16,7 +16,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
 ## :zap: Skills
 
-[![My skills](https://skillicons.dev/icons?i=typescript,python,kotlin,django,spring,fastapi,nodejs,nest,laravel,aws,java,redis,linux,docker,nginx,vscode,idea,js,git,github,md,html,css,tailwind&perline=12)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=typescript,python,kotlin,django,spring,fastapi,nodejs,nest,laravel,aws,java,redis,linux,docker,nginx,vscode,idea,js,git,github,md,html,css,tailwind&perline=15)](https://skillicons.dev)
 
 ## 📊 GitHub Stats
 
