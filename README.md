@@ -29,13 +29,12 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 24 hrs 14 mins
+Total Time: 26 hrs 56 mins
 
-Python            7 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.20 %
-TypeScript        5 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-JSON              4 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
-Markdown          1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Other             1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Python            7 hrs 21 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
+TypeScript        6 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+JSON              5 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Other             1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->
