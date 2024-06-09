@@ -19,10 +19,8 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: Binary YAML JSON TOML
+          IGNORED_LANGUAGES: Binary YAML JSON TOML Markdown
+          ### commit
           COMMIT_MESSAGE: 'chore: updated waka-readme graph with new metrics'
-          TARGET_BRANCH: main
-          COMMITTER_NAME: 'Wilfried AGO'
-          COMMITTER_EMAIL: 'wilfriedago@pm.me'
-          AUTHOR_NAME: 'Wilfried AGO'
-          AUTHOR_EMAIL: 'wilfriedago@pm.me'
+          AUTHOR_NAME: ${{ secrets.AUTHOR_NAME }}
+          AUTHOR_EMAIL: ${{ secrets.AUTHOR_EMAIL }}
