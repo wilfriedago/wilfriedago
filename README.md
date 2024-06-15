@@ -52,14 +52,12 @@ Last Updated: Friday, June 14th, 2024, 4:15:10 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 24 hrs 7 mins
+Total Time: 22 hrs 11 mins
 
-Python             5 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-JSON               4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
-CSV                1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-HTML               1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Markdown           1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Other              1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+YAML              5 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+Python            4 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+CSV               1 hr 57 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Other             1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
 ```
 
 <!--END_SECTION:waka-->
