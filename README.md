@@ -33,15 +33,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 15th, 2024, 4:15:45 AM
+Last Updated: Sunday, June 16th, 2024, 4:14:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 4 commit(s) to [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
-2. ⬆️ Pushed 3 commit(s) to [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
-3. ❌ Closed PR [#1](https://github.com/wilfriedago/vscode-symbols-icon-theme/pull/1) in [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
-4. 💬 Commented on [#2](https://github.com/wilfriedago/vscode-symbols-icon-theme/pull/2#issuecomment-2167229394) in [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
-5. ✌️ Released [v1.0.0](https://github.com/wilfriedago/vscode-symbols-icon-theme/releases/tag/v1.0.0) in [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
+1. ⬆️ Pushed 5 commit(s) to [wilfriedago/spring-boot-kotlin-template](https://github.com/wilfriedago/spring-boot-kotlin-template)<br>
+2. ⬆️ Pushed 10 commit(s) to [wilfriedago/kotlin-tutorials](https://github.com/wilfriedago/kotlin-tutorials)<br>
+3. ⬆️ Pushed 4 commit(s) to [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
+4. ⬆️ Pushed 3 commit(s) to [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
+5. ❌ Closed PR [#1](https://github.com/wilfriedago/vscode-symbols-icon-theme/pull/1) in [wilfriedago/vscode-symbols-icon-theme](https://github.com/wilfriedago/vscode-symbols-icon-theme)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
