@@ -52,13 +52,13 @@ Last Updated: Monday, June 17th, 2024, 4:16:22 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 25 hrs 18 mins
+Total Time: 25 hrs 48 mins
 
-Python             5 hrs 17 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
-YAML               5 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-Markdown           1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-CSS                1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Other              59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Python             12 hrs 52 mins  ████████████░░░░░░░░░░░░░   47.87 %
+JSON               6 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+CSS                1 hr 23 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML               1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Other              1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->
