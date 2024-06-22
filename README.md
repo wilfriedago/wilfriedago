@@ -52,17 +52,16 @@ Last Updated: Friday, June 21st, 2024, 4:15:25 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 36 hrs 26 mins
+Total Time: 34 hrs 7 mins
 
-Python                     16 hrs 55 mins  ███████████▒░░░░░░░░░░░░░   44.99 %
-JSON                       5 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-YAML                       3 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Docker                     1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-HTML                       1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Markdown                   1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-CSS                        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-TypeScript                 1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Other                      1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Python                     16 hrs 35 mins  ███████████▓░░░░░░░░░░░░░   46.85 %
+JSON                       4 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.97 %
+YAML                       3 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Docker                     1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+HTML                       1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+CSS                        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Markdown                   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+Other                      1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
