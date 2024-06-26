@@ -23,7 +23,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br/>
 	<p align="left">
 		<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wilfriedago&show_icons=true&count_private=true&title_color=10b981&icon_color=10b981&theme=react&hide_border=true&rank_icon=github" />
-		<img width="49.5%" src="https://streak-stats.demolab.com/?user=wilfriedago&hide_border=true&theme=react&ring=10b981&fire=fff&currStreakNum=fff&sideLabels=10b981&currStreakLabel=10b981&sideNums=fff&exclude_days=Sun" />
+		<img width="49.5%" src="https://streak-stats.demolab.com/?user=wilfriedago&hide_border=true&theme=react&ring=10b981&fire=fff&currStreakNum=fff&sideLabels=10b981&currStreakLabel=10b981&sideNums=fff" />
 	</p>
 	<br>
 </details>
