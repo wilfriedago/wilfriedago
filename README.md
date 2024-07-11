@@ -51,13 +51,15 @@ Last Updated: Wednesday, July 10th, 2024, 4:16:42 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 11 hrs
+Total Time: 14 hrs 49 mins
 
-TypeScript                 3 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   32.37 %
-HTML                       2 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-Python                     1 hr 58 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
-JSON                       51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Other                      36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+TypeScript                 3 hrs 34 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
+Python                     1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
+HTML                       1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Docker                     1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
+JSON                       48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Bash                       42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Other                      36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
