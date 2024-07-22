@@ -51,10 +51,10 @@ Last Updated: Sunday, July 21st, 2024, 4:14:39 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 20 hrs 52 mins
+Total Time: 18 hrs 12 mins
 
-YAML                       4 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
-Other                      2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+YAML                       3 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+Other                      2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
 ```
 
 <!--END_SECTION:waka-->
