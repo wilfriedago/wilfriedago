@@ -53,8 +53,11 @@ Last Updated: Monday, July 22nd, 2024, 4:15:53 AM
 ```python
 Total Time: 18 hrs 12 mins
 
-YAML                       3 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
-Other                      2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+TypeScript                 6 hrs 44 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 %
+JSON                       2 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+YAML                       2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Nginx configuration file   1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Other                      1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
 ```
 
 <!--END_SECTION:waka-->
