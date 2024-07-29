@@ -51,15 +51,17 @@ Last Updated: Sunday, July 28th, 2024, 4:14:25 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 12 hrs 40 mins
+Total Time: 11 hrs 7 mins
 
-TypeScript       10 hrs 51 mins  █████████████████████▒░░░   85.51 %
-JSON             49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
-Markdown         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-TSConfig         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript       10 hrs 22 mins  ███████████████████████▒░   93.27 %
+JSON             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+TSConfig         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+MDX              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
