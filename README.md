@@ -51,17 +51,16 @@ Last Updated: Monday, July 29th, 2024, 4:15:35 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 11 hrs 7 mins
+Total Time: 6 hrs 42 mins
 
-TypeScript       10 hrs 22 mins  ███████████████████████▒░   93.27 %
-JSON             24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Markdown         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-TSConfig         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-MDX              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript       5 hrs 21 mins   ████████████████████░░░░░   79.91 %
+PHP              32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+JSON             29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Markdown         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+YAML             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
