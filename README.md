@@ -10,7 +10,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
 ## 🎨 Languages and tools
 
-[![My skills](https://skillicons.dev/icons?i=typescript,python,kotlin,django,spring,fastapi,nodejs,nest,laravel,aws,java,redis,linux,docker,nginx,vscode,idea,js,git,github,md,html,css,tailwind&perline=15)](https://skillicons.dev)
+[![My skills](https://skillicons.dev/icons?i=typescript,js,nodejs,nest,java,kotlin,spring,python,fastapi,django,aws,linux,docker,vscode,idea,git,github,md,html,css,tailwind&perline=15)](https://skillicons.dev)
 
 ## 📫 Get in touch
 [![web](https://img.shields.io/badge/WEBSITE-12100E?logo=google-earth&color=282A36)][website]
