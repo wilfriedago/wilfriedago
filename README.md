@@ -51,14 +51,14 @@ Last Updated: Tuesday, August 13th, 2024, 4:15:41 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 45 hrs 13 mins
+Total Time: 46 hrs 37 mins
 
-Java                  11 hrs 28 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
-Bash                  5 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-YAML                  4 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
-JSON                  4 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Markdown              4 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Other                 4 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Java                  14 hrs 25 mins  ███████▒░░░░░░░░░░░░░░░░░   28.89 %
+Bash                  5 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
+YAML                  4 hrs 45 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+JSON                  4 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Markdown              3 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Other                 3 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
