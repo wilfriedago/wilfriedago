@@ -51,11 +51,10 @@ Last Updated: Saturday, September 7th, 2024, 4:16:37 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 30 hrs 15 mins
+Total Time: 27 hrs 41 mins
 
-Text                     6 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
-JSON                     5 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Other                    5 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.38 %
+Text                     6 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+Other                    5 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
 ```
 
 <!--END_SECTION:waka-->
