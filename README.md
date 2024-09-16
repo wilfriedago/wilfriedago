@@ -51,17 +51,18 @@ Last Updated: Sunday, September 15th, 2024, 4:16:34 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 34 hrs 35 mins
+Total Time: 35 hrs 19 mins
 
-Text                       5 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-TypeScript                 4 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Markdown                   3 hrs 26 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-JSON                       2 hrs 54 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
-JavaScript                 2 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Groovy                     1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Bash                       1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Java                       1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Git Config                 37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+TypeScript                 7 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+YAML                       7 hrs 41 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.47 %
+Markdown                   3 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+JavaScript                 3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+JSON                       2 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+SCSS                       1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Groovy                     1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Bash                       1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Text                       1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Java                       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
