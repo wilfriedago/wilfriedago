@@ -51,18 +51,18 @@ Last Updated: Saturday, September 21st, 2024, 4:16:38 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 37 hrs 54 mins
+Total Time: 31 hrs 10 mins
 
-TypeScript                 11 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-Java                       10 hrs 2 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-YAML                       3 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
-JavaScript                 3 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Nginx configuration file   2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-JSON                       2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-SCSS                       1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Markdown                   1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-Text                       44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-MDX                        41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+TypeScript                 9 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   31.18 %
+Java                       9 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.40 %
+YAML                       2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Nginx configuration file   2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
+JSON                       2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+JavaScript                 1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+SCSS                       1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Markdown                   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+MDX                        41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Text                       37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
