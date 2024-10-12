@@ -51,11 +51,11 @@ Last Updated: Friday, October 11th, 2024, 4:17:14 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 34 hrs 19 mins
+Total Time: 36 hrs 33 mins
 
-Java                     9 hrs 11 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-TypeScript               6 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Other                    3 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+TypeScript               9 hrs 25 mins   ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+Java                     8 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Other                    3 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
 ```
 
 <!--END_SECTION:waka-->
