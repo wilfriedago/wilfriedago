@@ -51,14 +51,16 @@ Last Updated: Tuesday, October 29th, 2024, 4:18:01 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 52 hrs 16 mins
+Total Time: 56 hrs 18 mins
 
-TypeScript    23 hrs 9 mins   ███████████░░░░░░░░░░░░░░   43.65 %
-Java          18 hrs 24 mins  ████████▓░░░░░░░░░░░░░░░░   34.70 %
-Drools        2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-JavaScript    1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-XML           1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Other         47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript        23 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   42.31 %
+Java              21 hrs 5 mins   █████████▒░░░░░░░░░░░░░░░   37.33 %
+SQL               1 hr 52 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+XML               1 hr 49 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+JavaScript        1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Drools            54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Bash              38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+SCSS              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
