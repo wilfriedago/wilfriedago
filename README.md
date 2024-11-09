@@ -51,14 +51,16 @@ Last Updated: Friday, November 8th, 2024, 4:16:58 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 35 hrs 17 mins
+Total Time: 39 hrs 28 mins
 
-TypeScript      11 hrs 35 mins  ████████░░░░░░░░░░░░░░░░░   32.57 %
-Java            9 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   27.39 %
-C               2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-JavaScript      33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-SCSS            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Other           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+TypeScript      11 hrs 48 mins  ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+Java            8 hrs 18 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+C               2 hrs 35 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
+JavaScript      33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+XML             20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+SCSS            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Git             13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Makefile        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
