@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 4:17:26 AM
+Last Updated: Tuesday, November 12th, 2024, 4:17:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)<br>
-2. ⭐ Starred [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr)<br>
-3. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
-4. ⬆️ Pushed 1 commit(s) to [wilfriedago/obsidian-highlighter-plugin](https://github.com/wilfriedago/obsidian-highlighter-plugin)<br>
-5. 🔱 Forked [wilfriedago/obsidian-highlighter-plugin](https://github.com/wilfriedago/obsidian-highlighter-plugin) from [chetachiezikeuzor/Highlightr-Plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin)<br>
+1. 🔱 Forked [wilfriedago/hledger](https://github.com/wilfriedago/hledger) from [simonmichael/hledger](https://github.com/simonmichael/hledger)<br>
+2. ⭐ Starred [simonmichael/hledger](https://github.com/simonmichael/hledger)<br>
+3. ⭐ Starred [simonmichael/hledger_site](https://github.com/simonmichael/hledger_site)<br>
+4. 🔱 Forked [wilfriedago/ledger-obsidian](https://github.com/wilfriedago/ledger-obsidian) from [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian)<br>
+5. ⭐ Starred [tgrosinger/ledger-obsidian](https://github.com/tgrosinger/ledger-obsidian)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
