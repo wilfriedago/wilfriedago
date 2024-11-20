@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 19th, 2024, 4:18:08 AM
+Last Updated: Wednesday, November 20th, 2024, 4:18:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/aegis](https://github.com/wilfriedago/aegis) from [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)<br>
-2. ⭐ Starred [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)<br>
-3. 🔱 Forked [wilfriedago/twenty](https://github.com/wilfriedago/twenty) from [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
-4. ⭐ Starred [twentyhq/twenty](https://github.com/twentyhq/twenty)<br>
-5. 🔱 Forked [wilfriedago/pasbuk-kotlin-android](https://github.com/wilfriedago/pasbuk-kotlin-android) from [claucookie-labs-ltd/pasbuk-kotlin-android](https://github.com/claucookie-labs-ltd/pasbuk-kotlin-android)<br>
+1. 🔱 Forked [wilfriedago/vscode-dbml](https://github.com/wilfriedago/vscode-dbml) from [mattmeyers/vscode-dbml](https://github.com/mattmeyers/vscode-dbml)<br>
+2. ⭐ Starred [mattmeyers/vscode-dbml](https://github.com/mattmeyers/vscode-dbml)<br>
+3. 🔱 Forked [wilfriedago/mastering-angular-test-driven-development](https://github.com/wilfriedago/mastering-angular-test-driven-development) from [PacktPublishing/Mastering-Angular-Test-Driven-Development](https://github.com/PacktPublishing/Mastering-Angular-Test-Driven-Development)<br>
+4. 🔱 Forked [wilfriedago/aegis](https://github.com/wilfriedago/aegis) from [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)<br>
+5. ⭐ Starred [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
