@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 30th, 2024, 4:17:57 AM
+Last Updated: Sunday, December 1st, 2024, 4:20:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 10 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-2. 🎉 Merged PR [#3](https://github.com/wilfriedago/dotfiles/pull/3) in [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-3. 💪 Opened PR [#3](https://github.com/wilfriedago/dotfiles/pull/3) in [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-5. ⬆️ Pushed 2 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+1. ⭐ Starred [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions)<br>
+2. ⭐ Starred [akhmadshin/next-rich-view-transitions](https://github.com/akhmadshin/next-rich-view-transitions)<br>
+3. ⭐ Starred [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner)<br>
+4. ⭐ Starred [tailscale/tailscale](https://github.com/tailscale/tailscale)<br>
+5. ⬆️ Pushed 10 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
