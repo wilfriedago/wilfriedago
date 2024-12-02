@@ -51,13 +51,13 @@ Last Updated: Sunday, December 1st, 2024, 4:20:02 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 31 hrs 17 mins
+Total Time: 34 hrs 47 mins
 
-TypeScript        9 hrs           ███████░░░░░░░░░░░░░░░░░░   27.75 %
-SQL               5 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Java              3 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-C                 2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Other             1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+TypeScript        14 hrs 2 mins   █████████▓░░░░░░░░░░░░░░░   39.00 %
+Java              3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+C                 2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+SQL               1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Other             1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
