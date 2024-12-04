@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 3rd, 2024, 4:19:11 AM
+Last Updated: Wednesday, December 4th, 2024, 4:18:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/git-flight-rules](https://github.com/wilfriedago/git-flight-rules) from [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)<br>
-2. ⭐ Starred [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)<br>
-3. ⭐ Starred [daytonaio/daytona](https://github.com/daytonaio/daytona)<br>
-4. ⭐ Starred [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions)<br>
-5. ⭐ Starred [akhmadshin/next-rich-view-transitions](https://github.com/akhmadshin/next-rich-view-transitions)<br>
+1. ⭐ Starred [azat-io/eslint-plugin-perfectionist](https://github.com/azat-io/eslint-plugin-perfectionist)<br>
+2. 🔱 Forked [wilfriedago/safeosms](https://github.com/wilfriedago/safeosms) from [patadejaguar/safeosms](https://github.com/patadejaguar/safeosms)<br>
+3. ⭐ Starred [patadejaguar/safeosms](https://github.com/patadejaguar/safeosms)<br>
+4. ⭐ Starred [tamagui/tamagui](https://github.com/tamagui/tamagui)<br>
+5. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
