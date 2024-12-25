@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 24th, 2024, 4:17:29 AM
+Last Updated: Wednesday, December 25th, 2024, 4:17:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)<br>
-2. ⭐ Starred [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template)<br>
-3. 🔱 Forked [wilfriedago/aulianza.id](https://github.com/wilfriedago/aulianza.id) from [aulianza/aulianza.id](https://github.com/aulianza/aulianza.id)<br>
-4. ⭐ Starred [aulianza/aulianza.id](https://github.com/aulianza/aulianza.id)<br>
-5. 🔱 Forked [wilfriedago/cqrs-reservation-reactive-system](https://github.com/wilfriedago/cqrs-reservation-reactive-system) from [michalzeman/cqrs-reservation-reactive-system](https://github.com/michalzeman/cqrs-reservation-reactive-system)<br>
+1. ⭐ Starred [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration)<br>
+2. 🔱 Forked [wilfriedago/nix-config](https://github.com/wilfriedago/nix-config) from [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
+3. ⭐ Starred [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
+4. ⭐ Starred [containerd/containerd](https://github.com/containerd/containerd)<br>
+5. ⭐ Starred [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
