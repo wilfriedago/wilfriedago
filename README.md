@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 25th, 2024, 4:17:28 AM
+Last Updated: Thursday, December 26th, 2024, 4:17:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration)<br>
-2. 🔱 Forked [wilfriedago/nix-config](https://github.com/wilfriedago/nix-config) from [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
-3. ⭐ Starred [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
-4. ⭐ Starred [containerd/containerd](https://github.com/containerd/containerd)<br>
-5. ⭐ Starred [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero)<br>
+1. ⭐ Starred [midday-ai/languine](https://github.com/midday-ai/languine)<br>
+2. ⭐ Starred [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration)<br>
+3. 🔱 Forked [wilfriedago/nix-config](https://github.com/wilfriedago/nix-config) from [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
+4. ⭐ Starred [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
+5. ⭐ Starred [containerd/containerd](https://github.com/containerd/containerd)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
