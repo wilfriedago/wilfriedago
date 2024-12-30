@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 29th, 2024, 4:16:57 AM
+Last Updated: Monday, December 30th, 2024, 4:17:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [midday-ai/languine](https://github.com/midday-ai/languine)<br>
-2. ⭐ Starred [TheMaxMur/NixOS-Configuration](https://github.com/TheMaxMur/NixOS-Configuration)<br>
-3. 🔱 Forked [wilfriedago/nix-config](https://github.com/wilfriedago/nix-config) from [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
-4. ⭐ Starred [jwiegley/nix-config](https://github.com/jwiegley/nix-config)<br>
-5. ⭐ Starred [containerd/containerd](https://github.com/containerd/containerd)<br>
+1. 🔱 Forked [wilfriedago/clean-code-typescript](https://github.com/wilfriedago/clean-code-typescript) from [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)<br>
+2. ⭐ Starred [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)<br>
+3. ⭐ Starred [houssenedao/clean-code-python](https://github.com/houssenedao/clean-code-python)<br>
+4. ⭐ Starred [houssenedao/awesome-clean-code](https://github.com/houssenedao/awesome-clean-code)<br>
+5. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
