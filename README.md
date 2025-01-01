@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 31st, 2024, 4:17:13 AM
+Last Updated: Wednesday, January 1st, 2025, 4:17:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/clean-code-typescript](https://github.com/wilfriedago/clean-code-typescript) from [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)<br>
-2. ⭐ Starred [labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)<br>
-3. ⭐ Starred [houssenedao/clean-code-python](https://github.com/houssenedao/clean-code-python)<br>
-4. ⭐ Starred [houssenedao/awesome-clean-code](https://github.com/houssenedao/awesome-clean-code)<br>
-5. ⭐ Starred [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)<br>
+1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+2. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
+3. ⭐ Starred [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web)<br>
+4. ⭐ Starred [wataru-maeda/react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate)<br>
+5. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
