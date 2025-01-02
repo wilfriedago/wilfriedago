@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 1st, 2025, 4:17:31 AM
+Last Updated: Thursday, January 2nd, 2025, 4:17:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-2. ⭐ Starred [iptv-org/iptv](https://github.com/iptv-org/iptv)<br>
-3. ⭐ Starred [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web)<br>
-4. ⭐ Starred [wataru-maeda/react-native-boilerplate](https://github.com/wataru-maeda/react-native-boilerplate)<br>
-5. ⭐ Starred [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)<br>
+1. 🔱 Forked [wilfriedago/android-money-manager-ex](https://github.com/wilfriedago/android-money-manager-ex) from [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
+2. ⭐ Starred [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
+3. 🔱 Forked [wilfriedago/moneymanagerex](https://github.com/wilfriedago/moneymanagerex) from [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)<br>
+4. ⭐ Starred [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)<br>
+5. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
