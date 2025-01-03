@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 2nd, 2025, 4:17:13 AM
+Last Updated: Friday, January 3rd, 2025, 4:17:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/android-money-manager-ex](https://github.com/wilfriedago/android-money-manager-ex) from [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
-2. ⭐ Starred [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
-3. 🔱 Forked [wilfriedago/moneymanagerex](https://github.com/wilfriedago/moneymanagerex) from [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)<br>
-4. ⭐ Starred [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)<br>
-5. ⭐ Starred [juanfont/headscale](https://github.com/juanfont/headscale)<br>
+1. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
+2. ⭐ Starred [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)<br>
+3. 🔱 Forked [wilfriedago/android-money-manager-ex](https://github.com/wilfriedago/android-money-manager-ex) from [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
+4. ⭐ Starred [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
+5. 🔱 Forked [wilfriedago/moneymanagerex](https://github.com/wilfriedago/moneymanagerex) from [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
