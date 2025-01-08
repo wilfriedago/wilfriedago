@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 7th, 2025, 4:16:50 AM
+Last Updated: Wednesday, January 8th, 2025, 4:17:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)<br>
-2. ⭐ Starred [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)<br>
-3. 🔱 Forked [wilfriedago/android-money-manager-ex](https://github.com/wilfriedago/android-money-manager-ex) from [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
-4. ⭐ Starred [moneymanagerex/android-money-manager-ex](https://github.com/moneymanagerex/android-money-manager-ex)<br>
-5. 🔱 Forked [wilfriedago/moneymanagerex](https://github.com/wilfriedago/moneymanagerex) from [moneymanagerex/moneymanagerex](https://github.com/moneymanagerex/moneymanagerex)<br>
+1. 🔱 Forked [wilfriedago/open-stock](https://github.com/wilfriedago/open-stock) from [ospos-org/open-stock](https://github.com/ospos-org/open-stock)<br>
+2. ⭐ Starred [ospos-org/open-stock](https://github.com/ospos-org/open-stock)<br>
+3. 🔱 Forked [wilfriedago/open-pos](https://github.com/wilfriedago/open-pos) from [ospos-org/open-pos](https://github.com/ospos-org/open-pos)<br>
+4. ⭐ Starred [ospos-org/open-pos](https://github.com/ospos-org/open-pos)<br>
+5. 🔱 Forked [wilfriedago/firefly-iii](https://github.com/wilfriedago/firefly-iii) from [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
