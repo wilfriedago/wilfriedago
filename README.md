@@ -51,9 +51,9 @@ Last Updated: Saturday, January 11th, 2025, 4:16:56 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 17 hrs 53 mins
+Total Time: 17 hrs 52 mins
 
-Other           6 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.74 %
+Other           7 hrs 36 mins   ███████▒░░░░░░░░░░░░░░░░░   29.83 %
 ```
 
 <!--END_SECTION:waka-->
