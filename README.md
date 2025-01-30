@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 29th, 2025, 4:16:48 AM
+Last Updated: Thursday, January 30th, 2025, 4:16:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-2. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
-3. ⭐ Starred [Guardsquare/proguard](https://github.com/Guardsquare/proguard)<br>
-4. 🔱 Forked [wilfriedago/openreplay](https://github.com/wilfriedago/openreplay) from [openreplay/openreplay](https://github.com/openreplay/openreplay)<br>
-5. ⭐ Starred [openreplay/openreplay](https://github.com/openreplay/openreplay)<br>
+1. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)<br>
+2. ⬆️ Pushed 2 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+3. ⭐ Starred [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3)<br>
+4. ⭐ Starred [Guardsquare/proguard](https://github.com/Guardsquare/proguard)<br>
+5. 🔱 Forked [wilfriedago/openreplay](https://github.com/wilfriedago/openreplay) from [openreplay/openreplay](https://github.com/openreplay/openreplay)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
