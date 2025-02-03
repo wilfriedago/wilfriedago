@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 2nd, 2025, 4:15:52 AM
+Last Updated: Monday, February 3rd, 2025, 4:17:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [block/goose](https://github.com/block/goose)<br>
-2. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-3. ⭐ Starred [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5)<br>
-4. ⬆️ Pushed 718 commit(s) to [wilfriedago/gitbutler](https://github.com/wilfriedago/gitbutler)<br>
-5. ⭐ Starred [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)<br>
+1. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
+2. ⭐ Starred [oumi-ai/oumi](https://github.com/oumi-ai/oumi)<br>
+3. ⭐ Starred [block/goose](https://github.com/block/goose)<br>
+4. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+5. ⭐ Starred [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
