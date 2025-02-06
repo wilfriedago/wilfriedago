@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 5th, 2025, 4:17:15 AM
+Last Updated: Thursday, February 6th, 2025, 4:16:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)<br>
-2. ⭐ Starred [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)<br>
-3. ⭐ Starred [oumi-ai/oumi](https://github.com/oumi-ai/oumi)<br>
-4. ⭐ Starred [block/goose](https://github.com/block/goose)<br>
-5. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+1. 🔱 Forked [wilfriedago/pientaa-arch-demo](https://github.com/wilfriedago/pientaa-arch-demo) from [pientaa/arch-demo](https://github.com/pientaa/arch-demo)<br>
+2. ⭐ Starred [pientaa/arch-demo](https://github.com/pientaa/arch-demo)<br>
+3. 🔱 Forked [wilfriedago/Kotlin-Clean-Architecture-CQRS](https://github.com/wilfriedago/Kotlin-Clean-Architecture-CQRS) from [AleksK1NG/Kotlin-Clean-Architecture-CQRS](https://github.com/AleksK1NG/Kotlin-Clean-Architecture-CQRS)<br>
+4. ⭐ Starred [AleksK1NG/Kotlin-Clean-Architecture-CQRS](https://github.com/AleksK1NG/Kotlin-Clean-Architecture-CQRS)<br>
+5. 🔱 Forked [wilfriedago/brainstory-prompts](https://github.com/wilfriedago/brainstory-prompts) from [brainstory/prompts](https://github.com/brainstory/prompts)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
