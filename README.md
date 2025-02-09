@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 8th, 2025, 4:16:28 AM
+Last Updated: Sunday, February 9th, 2025, 4:16:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/pientaa-arch-demo](https://github.com/wilfriedago/pientaa-arch-demo) from [pientaa/arch-demo](https://github.com/pientaa/arch-demo)<br>
-2. ⭐ Starred [pientaa/arch-demo](https://github.com/pientaa/arch-demo)<br>
-3. 🔱 Forked [wilfriedago/Kotlin-Clean-Architecture-CQRS](https://github.com/wilfriedago/Kotlin-Clean-Architecture-CQRS) from [AleksK1NG/Kotlin-Clean-Architecture-CQRS](https://github.com/AleksK1NG/Kotlin-Clean-Architecture-CQRS)<br>
-4. ⭐ Starred [AleksK1NG/Kotlin-Clean-Architecture-CQRS](https://github.com/AleksK1NG/Kotlin-Clean-Architecture-CQRS)<br>
-5. 🔱 Forked [wilfriedago/brainstory-prompts](https://github.com/wilfriedago/brainstory-prompts) from [brainstory/prompts](https://github.com/brainstory/prompts)<br>
+1. ⭐ Starred [timlrx/contentlayer2](https://github.com/timlrx/contentlayer2)<br>
+2. 🔱 Forked [wilfriedago/deep-research](https://github.com/wilfriedago/deep-research) from [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
+3. ⭐ Starred [dzhng/deep-research](https://github.com/dzhng/deep-research)<br>
+4. ⭐ Starred [thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx)<br>
+5. 🔱 Forked [wilfriedago/pientaa-arch-demo](https://github.com/wilfriedago/pientaa-arch-demo) from [pientaa/arch-demo](https://github.com/pientaa/arch-demo)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
