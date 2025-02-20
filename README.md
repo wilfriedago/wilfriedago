@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 19th, 2025, 4:17:41 AM
+Last Updated: Thursday, February 20th, 2025, 4:17:27 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
-2. ⭐ Starred [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)<br>
-3. ⭐ Starred [gruntwork-io/terraform-aws-utilities](https://github.com/gruntwork-io/terraform-aws-utilities)<br>
-4. ⭐ Starred [exo-explore/exo](https://github.com/exo-explore/exo)<br>
-5. ⭐ Starred [paradedb/paradedb](https://github.com/paradedb/paradedb)<br>
+1. ⭐ Starred [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs)<br>
+2. ⭐ Starred [bluesky-social/social-app](https://github.com/bluesky-social/social-app)<br>
+3. ⭐ Starred [docmost/docmost](https://github.com/docmost/docmost)<br>
+4. ⭐ Starred [Nutlope/logocreator](https://github.com/Nutlope/logocreator)<br>
+5. ⭐ Starred [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
