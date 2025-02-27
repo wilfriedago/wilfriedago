@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 26th, 2025, 4:18:03 AM
+Last Updated: Thursday, February 27th, 2025, 4:18:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cloudposse/terraform-aws-rds-cluster](https://github.com/cloudposse/terraform-aws-rds-cluster)<br>
-2. ⭐ Starred [cloudposse/terraform-aws-budgets](https://github.com/cloudposse/terraform-aws-budgets)<br>
-3. ⭐ Starred [cloudposse/terraform-aws-eks-cluster](https://github.com/cloudposse/terraform-aws-eks-cluster)<br>
-4. ⭐ Starred [cloudposse/terraform-example-module](https://github.com/cloudposse/terraform-example-module)<br>
-5. ⭐ Starred [cloudposse/terraform-aws-elastic-beanstalk-environment](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment)<br>
+1. ⭐ Starred [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus)<br>
+2. ⭐ Starred [cloudposse/terraform-aws-ssm-parameter-store](https://github.com/cloudposse/terraform-aws-ssm-parameter-store)<br>
+3. ⭐ Starred [scrapy/scrapy](https://github.com/scrapy/scrapy)<br>
+4. ⭐ Starred [cloudposse/terraform-aws-rds-cluster](https://github.com/cloudposse/terraform-aws-rds-cluster)<br>
+5. ⭐ Starred [cloudposse/terraform-aws-budgets](https://github.com/cloudposse/terraform-aws-budgets)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
