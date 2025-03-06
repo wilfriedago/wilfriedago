@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 5th, 2025, 4:17:59 AM
+Last Updated: Thursday, March 6th, 2025, 4:17:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Mirascope/mirascope](https://github.com/Mirascope/mirascope)<br>
-2. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)<br>
-3. ⭐ Starred [oracle/graal](https://github.com/oracle/graal)<br>
-4. ⭐ Starred [nioperas06/awesome-django-rest-framework](https://github.com/nioperas06/awesome-django-rest-framework)<br>
-5. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)<br>
+1. ⭐ Starred [itskoolsid/ai_rag](https://github.com/itskoolsid/ai_rag)<br>
+2. ⭐ Starred [itskoolsid/ai_rag](https://github.com/itskoolsid/ai_rag)<br>
+3. ⭐ Starred [thjbdvlt/spell-fr.vim](https://github.com/thjbdvlt/spell-fr.vim)<br>
+4. ⭐ Starred [Mirascope/mirascope](https://github.com/Mirascope/mirascope)<br>
+5. ⭐ Starred [danielmiessler/fabric](https://github.com/danielmiessler/fabric)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
