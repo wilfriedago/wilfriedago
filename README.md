@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 10th, 2025, 4:14:47 AM
+Last Updated: Tuesday, March 11th, 2025, 4:18:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [wilfriedago/1990](https://github.com/wilfriedago/1990)<br>
-2. ⭐ Starred [huggingface/agents-course](https://github.com/huggingface/agents-course)<br>
-3. ⭐ Starred [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)<br>
-4. ⭐ Starred [pentaho/pentaho-platform-plugin-common-ui](https://github.com/pentaho/pentaho-platform-plugin-common-ui)<br>
-5. 🔱 Forked [wilfriedago/expo-ai-chatbot-lite](https://github.com/wilfriedago/expo-ai-chatbot-lite) from [expo-ai-chatbot/expo-ai-chatbot-lite](https://github.com/expo-ai-chatbot/expo-ai-chatbot-lite)<br>
+1. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br>
+2. ⭐ Starred [mdn/yari](https://github.com/mdn/yari)<br>
+3. 📔 Created new repository [wilfriedago/1990](https://github.com/wilfriedago/1990)<br>
+4. ⭐ Starred [huggingface/agents-course](https://github.com/huggingface/agents-course)<br>
+5. ⭐ Starred [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
