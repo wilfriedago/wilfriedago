@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 11th, 2025, 4:18:44 AM
+Last Updated: Wednesday, March 12th, 2025, 4:18:25 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br>
-2. ⭐ Starred [mdn/yari](https://github.com/mdn/yari)<br>
-3. 📔 Created new repository [wilfriedago/1990](https://github.com/wilfriedago/1990)<br>
-4. ⭐ Starred [huggingface/agents-course](https://github.com/huggingface/agents-course)<br>
-5. ⭐ Starred [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink)<br>
+1. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+2. ⭐ Starred [joelkanyi/FocusBloom](https://github.com/joelkanyi/FocusBloom)<br>
+3. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br>
+4. ⭐ Starred [mdn/yari](https://github.com/mdn/yari)<br>
+5. 📔 Created new repository [wilfriedago/1990](https://github.com/wilfriedago/1990)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
