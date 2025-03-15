@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 14th, 2025, 4:18:06 AM
+Last Updated: Saturday, March 15th, 2025, 4:17:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stanford-oval/storm](https://github.com/stanford-oval/storm)<br>
-2. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
-3. ⭐ Starred [joelkanyi/FocusBloom](https://github.com/joelkanyi/FocusBloom)<br>
-4. ⭐ Starred [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)<br>
-5. ⭐ Starred [mdn/yari](https://github.com/mdn/yari)<br>
+1. ⭐ Starred [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick)<br>
+2. ⭐ Starred [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe)<br>
+3. ⭐ Starred [stanford-oval/storm](https://github.com/stanford-oval/storm)<br>
+4. ⭐ Starred [aidenybai/react-scan](https://github.com/aidenybai/react-scan)<br>
+5. ⭐ Starred [joelkanyi/FocusBloom](https://github.com/joelkanyi/FocusBloom)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
