@@ -51,14 +51,15 @@ Last Updated: Friday, March 14th, 2025, 4:18:06 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 47 hrs 28 mins
+Total Time: 43 hrs 53 mins
 
-Java              22 hrs 27 mins  ███████████▓░░░░░░░░░░░░░   46.86 %
-TypeScript        9 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-Dart              2 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JavaScript        2 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-XML               32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Other             27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Java              25 hrs 11 mins  ██████████████▒░░░░░░░░░░   57.17 %
+TypeScript        8 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+JavaScript        1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+XML               1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Text              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+TSConfig          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Kotlin            11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
