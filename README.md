@@ -51,15 +51,15 @@ Last Updated: Monday, March 24th, 2025, 4:18:58 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 27 hrs 46 mins
+Total Time: 26 hrs 18 mins
 
-Java              16 hrs 23 mins  ██████████████▓░░░░░░░░░░   58.67 %
-TypeScript        2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-XML               1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Dart              1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Groovy            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-JavaScript        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Python            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java              16 hrs 23 mins  ███████████████▒░░░░░░░░░   61.91 %
+XML               1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Dart              1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+TypeScript        45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Groovy            30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JavaScript        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
