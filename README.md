@@ -51,15 +51,15 @@ Last Updated: Thursday, April 3rd, 2025, 4:19:20 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 38 hrs 15 mins
+Total Time: 41 hrs 45 mins
 
-Java                       14 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.28 %
-TypeScript                 10 hrs 11 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-JavaScript                 5 hrs 6 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-XML                        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-HTML                       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-TSConfig                   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Git Config                 14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Java                       13 hrs 55 mins  ████████▒░░░░░░░░░░░░░░░░   33.09 %
+TypeScript                 11 hrs 37 mins  ███████░░░░░░░░░░░░░░░░░░   27.63 %
+JavaScript                 6 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+XML                        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+HTML                       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Java Properties            24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+TSConfig                   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
