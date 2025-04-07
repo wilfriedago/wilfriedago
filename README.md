@@ -51,14 +51,13 @@ Last Updated: Sunday, April 6th, 2025, 4:18:42 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 39 hrs 25 mins
+Total Time: 44 hrs 25 mins
 
-Java                13 hrs 10 mins  ████████▒░░░░░░░░░░░░░░░░   33.06 %
-TypeScript          9 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
-Dart                3 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-JavaScript          1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Java Properties     24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Other               23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Java                13 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Dart                12 hrs 10 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.96 %
+TypeScript          6 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+JavaScript          1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Other               45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
