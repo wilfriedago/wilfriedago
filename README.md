@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 22nd, 2025, 4:18:45 AM
+Last Updated: Wednesday, April 23rd, 2025, 4:19:19 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ulid/spec](https://github.com/ulid/spec)<br>
-2. 🔱 Forked [wilfriedago/neondatabase-website](https://github.com/wilfriedago/neondatabase-website) from [neondatabase/website](https://github.com/neondatabase/website)<br>
-3. ⭐ Starred [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup)<br>
-4. ⬆️ Pushed 10 commit(s) to [thewlabs/eslint-config](https://github.com/thewlabs/eslint-config)<br>
-5. ⭐ Starred [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)<br>
+1. ⭐ Starred [foxlau/react-router-v7-remix-auth](https://github.com/foxlau/react-router-v7-remix-auth)<br>
+2. ⭐ Starred [ulid/spec](https://github.com/ulid/spec)<br>
+3. 🔱 Forked [wilfriedago/neondatabase-website](https://github.com/wilfriedago/neondatabase-website) from [neondatabase/website](https://github.com/neondatabase/website)<br>
+4. ⭐ Starred [jellydn/zed-101-setup](https://github.com/jellydn/zed-101-setup)<br>
+5. ⬆️ Pushed 10 commit(s) to [thewlabs/eslint-config](https://github.com/thewlabs/eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
