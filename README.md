@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 25th, 2025, 4:19:19 AM
+Last Updated: Saturday, April 26th, 2025, 4:18:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 307 commit(s) to [wilfriedago/next-forge](https://github.com/wilfriedago/next-forge)<br>
-2. ⭐ Starred [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)<br>
-3. ⭐ Starred [nari-labs/dia](https://github.com/nari-labs/dia)<br>
-4. ⭐ Starred [lethain/library-mcp](https://github.com/lethain/library-mcp)<br>
-5. ⭐ Starred [foxlau/react-router-v7-remix-auth](https://github.com/foxlau/react-router-v7-remix-auth)<br>
+1. ⭐ Starred [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)<br>
+2. ⭐ Starred [cloudposse/terraform-aws-ec2-autoscale-group](https://github.com/cloudposse/terraform-aws-ec2-autoscale-group)<br>
+3. ⬆️ Pushed 307 commit(s) to [wilfriedago/next-forge](https://github.com/wilfriedago/next-forge)<br>
+4. ⭐ Starred [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)<br>
+5. ⭐ Starred [nari-labs/dia](https://github.com/nari-labs/dia)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
