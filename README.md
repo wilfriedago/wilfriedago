@@ -51,15 +51,15 @@ Last Updated: Sunday, April 27th, 2025, 4:18:08 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 17 hrs 33 mins
+Total Time: 18 hrs 27 mins
 
-Java             9 hrs 11 mins   █████████████░░░░░░░░░░░░   52.31 %
-SQL              5 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-XML              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-JavaScript       32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-TypeScript       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Docker           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Git              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java             9 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.46 %
+SQL              5 hrs 20 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+XML              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Docker           35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JavaScript       33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TypeScript       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Git              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
