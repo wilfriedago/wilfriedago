@@ -51,16 +51,15 @@ Last Updated: Sunday, May 11th, 2025, 4:18:58 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 21 hrs 10 mins
+Total Time: 16 hrs 8 mins
 
-TypeScript      7 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.11 %
-Java            6 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   31.00 %
-JavaScript      1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-Bash            1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-SQL             46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-TSConfig        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Groovy          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-CSS             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Java            6 hrs 31 mins   ██████████░░░░░░░░░░░░░░░   40.20 %
+TypeScript      3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+JavaScript      1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Bash            1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+TSConfig        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Groovy          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+CSS             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
