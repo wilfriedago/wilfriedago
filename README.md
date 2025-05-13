@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 12th, 2025, 4:20:44 AM
+Last Updated: Tuesday, May 13th, 2025, 4:19:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-2. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-3. ⬆️ Pushed 20 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-4. 🎉 Merged PR [#12](https://github.com/wilfriedago/dotfiles/pull/12) in [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+1. ⬆️ Pushed 3 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+2. ⭐ Starred [dexie/Dexie.js](https://github.com/dexie/Dexie.js)<br>
+3. 🔱 Forked [wilfriedago/zsh-copilot](https://github.com/wilfriedago/zsh-copilot) from [Myzel394/zsh-copilot](https://github.com/Myzel394/zsh-copilot)<br>
+4. ⬆️ Pushed 4 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+5. 🔱 Forked [wilfriedago/nixos-config](https://github.com/wilfriedago/nixos-config) from [mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
