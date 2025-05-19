@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 18th, 2025, 4:21:56 AM
+Last Updated: Monday, May 19th, 2025, 4:24:15 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-2. ⭐ Starred [trycua/cua](https://github.com/trycua/cua)<br>
-3. 🔱 Forked [wilfriedago/ml-fastvlm](https://github.com/wilfriedago/ml-fastvlm) from [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm)<br>
-4. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-5. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+1. ⭐ Starred [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources)<br>
+2. ⭐ Starred [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)<br>
+3. ⬆️ Pushed 2 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+4. ⭐ Starred [trycua/cua](https://github.com/trycua/cua)<br>
+5. 🔱 Forked [wilfriedago/ml-fastvlm](https://github.com/wilfriedago/ml-fastvlm) from [apple/ml-fastvlm](https://github.com/apple/ml-fastvlm)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
