@@ -51,15 +51,15 @@ Last Updated: Tuesday, May 20th, 2025, 4:19:52 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 13 hrs 13 mins
+Total Time: 19 hrs 9 mins
 
-Java              3 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.86 %
-TypeScript        57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-XML               52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-Bash              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-.env file         32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Groovy            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-JavaScript        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+TypeScript        5 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   27.83 %
+Java              4 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+XML               52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+JavaScript        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Bash              38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+.env file         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Groovy            30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
