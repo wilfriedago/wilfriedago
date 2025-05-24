@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 23rd, 2025, 4:19:42 AM
+Last Updated: Saturday, May 24th, 2025, 4:18:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-2. ⭐ Starred [bvanjoi/bolt-ts](https://github.com/bvanjoi/bolt-ts)<br>
-3. ⭐ Starred [sindresorhus/got](https://github.com/sindresorhus/got)<br>
-4. ⭐ Starred [colinhacks/zod](https://github.com/colinhacks/zod)<br>
-5. ⭐ Starred [oracle-samples/ai-optimizer](https://github.com/oracle-samples/ai-optimizer)<br>
+1. ⭐ Starred [idosal/mcp-ui](https://github.com/idosal/mcp-ui)<br>
+2. ⭐ Starred [better-auth/better-auth](https://github.com/better-auth/better-auth)<br>
+3. ⭐ Starred [vfshera/better-auth-rr7](https://github.com/vfshera/better-auth-rr7)<br>
+4. ⭐ Starred [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)<br>
+5. ⬆️ Pushed 3 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
