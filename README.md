@@ -51,15 +51,15 @@ Last Updated: Friday, May 23rd, 2025, 4:19:42 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 32 hrs 32 mins
+Total Time: 39 hrs 25 mins
 
-TypeScript        14 hrs 5 mins   ██████████▓░░░░░░░░░░░░░░   42.91 %
-Java              6 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   20.65 %
-JavaScript        58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-CSS               57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-.env file         32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-XML               27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Bash              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+TypeScript        18 hrs 55 mins  ████████████░░░░░░░░░░░░░   47.41 %
+Java              7 hrs 42 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
+CSS               56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JavaScript        48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+XML               43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Docker            33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Other             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
