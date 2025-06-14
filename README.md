@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 13th, 2025, 4:24:34 AM
+Last Updated: Saturday, June 14th, 2025, 4:20:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
-2. ⭐ Starred [Calvin-LL/is-even-ai](https://github.com/Calvin-LL/is-even-ai)<br>
-3. ⭐ Starred [kauffinger/lazyvim](https://github.com/kauffinger/lazyvim)<br>
-4. ⭐ Starred [heyform/heyform](https://github.com/heyform/heyform)<br>
-5. ⭐ Starred [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep)<br>
+1. ⭐ Starred [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim)<br>
+2. ⭐ Starred [apple/container](https://github.com/apple/container)<br>
+3. ⭐ Starred [Calvin-LL/is-even-ai](https://github.com/Calvin-LL/is-even-ai)<br>
+4. ⭐ Starred [kauffinger/lazyvim](https://github.com/kauffinger/lazyvim)<br>
+5. ⭐ Starred [heyform/heyform](https://github.com/heyform/heyform)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
