@@ -51,15 +51,15 @@ Last Updated: Tuesday, June 24th, 2025, 4:26:26 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 25 hrs 53 mins
+Total Time: 29 hrs 51 mins
 
-Java              19 hrs 52 mins  ███████████████████▒░░░░░   76.70 %
-TypeScript        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Docker            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Groovy            29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Java Properties   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Properties        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-textmate          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Java              22 hrs 58 mins  ███████████████████▒░░░░░   76.90 %
+XML               57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+TypeScript        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Docker            32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Groovy            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Java Properties   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Properties        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
