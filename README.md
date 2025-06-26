@@ -51,15 +51,15 @@ Last Updated: Wednesday, June 25th, 2025, 4:27:23 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 29 hrs 51 mins
+Total Time: 27 hrs 32 mins
 
-Java              22 hrs 58 mins  ███████████████████▒░░░░░   76.90 %
-XML               57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-TypeScript        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Docker            32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Groovy            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Java Properties   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Properties        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java              22 hrs 5 mins   ████████████████████░░░░░   80.14 %
+XML               1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+TypeScript        49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Docker            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Groovy            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Bash              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Shell Script      5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
