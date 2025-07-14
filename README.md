@@ -63,7 +63,7 @@ Other            15 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-[website]: https://wilfriedago.dev
+[website]: https://wilfriedago.me
 [linkedin]: https://linkedin.com/in/wilfriedago
-[blog]: https://wilfriedago.dev/blog
-[mail]: mailto:me@wilfriedago.dev
+[blog]: https://wilfriedago.me/blog
+[mail]: mailto:hello@wilfriedago.me
