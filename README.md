@@ -51,15 +51,15 @@ Last Updated: Wednesday, July 16th, 2025, 4:35:20 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 22 hrs 52 mins
+Total Time: 33 hrs 2 mins
 
-TypeScript        6 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-Java              6 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   27.76 %
-TeX               1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-JavaScript        1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-CSS               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
-Kotlin            29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-Gradle            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Java                  14 hrs 7 mins   ██████████▓░░░░░░░░░░░░░░   42.40 %
+TypeScript            7 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+TeX                   1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JavaScript            54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+XML                   35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Kotlin                31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Gradle                21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
