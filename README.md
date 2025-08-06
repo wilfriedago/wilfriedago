@@ -51,16 +51,15 @@ Last Updated: Tuesday, August 5th, 2025, 4:44:27 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 1 hr 10 mins
+Total Time: 48 mins
 
-Java              16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-JavaScript        16 mins         ██████░░░░░░░░░░░░░░░░░░░   23.75 %
-Bash              9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-CSS               4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-TypeScript        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Java              16 mins         ████████▓░░░░░░░░░░░░░░░░   34.18 %
+Bash              9 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+Properties        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
