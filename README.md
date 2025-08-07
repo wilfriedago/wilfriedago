@@ -32,15 +32,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 6th, 2025, 4:41:27 AM
+Last Updated: Thursday, August 7th, 2025, 4:41:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [egovernments/DIGIT-OSS](https://github.com/egovernments/DIGIT-OSS)<br>
+1. ⭐ Starred [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook)<br>
 2. ⭐ Starred [egovernments/DIGIT-OSS](https://github.com/egovernments/DIGIT-OSS)<br>
-3. ⭐ Starred [tighten/ziggy](https://github.com/tighten/ziggy)<br>
-4. ⭐ Starred [workflowbuildersdk/workflowbuilder](https://github.com/workflowbuildersdk/workflowbuilder)<br>
-5. ⭐ Starred [reaviz/reaflow](https://github.com/reaviz/reaflow)<br>
+3. ⭐ Starred [egovernments/DIGIT-OSS](https://github.com/egovernments/DIGIT-OSS)<br>
+4. ⭐ Starred [tighten/ziggy](https://github.com/tighten/ziggy)<br>
+5. ⭐ Starred [workflowbuildersdk/workflowbuilder](https://github.com/workflowbuildersdk/workflowbuilder)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
