@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/wilfriedago/wilfriedago/main/assets/1.png)][website]
+### Hi, I'm Will
 
 Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and [occasional blogger][blog]. I spend my days building full-stack applications and tools using Typescript, Java & Kotlin, and some of the technologies I work with include [AWS](https://aws.amazon.com/fr/), [Next.js](https://nextjs.org/), [Spring Boot](https://spring.io/projects/spring-boot), [Nest.js](https://nestjs.com/), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Docker](https://www.docker.com/), and occasionally [Laravel](https://laravel.com/).
 
