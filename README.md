@@ -53,15 +53,15 @@ Last Updated: Tuesday, September 2nd, 2025, 4:19:32 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 16 hrs 54 mins
+Total Time: 14 hrs 23 mins
 
-Java              5 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.29 %
-Groovy            1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Docker            55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-Gradle            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-TypeScript        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-XML               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Other             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Java              3 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+Groovy            1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Docker            55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Gradle            39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+TypeScript        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+XML               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
