@@ -53,16 +53,13 @@ Last Updated: Saturday, September 6th, 2025, 4:17:43 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 12 hrs 16 mins
+Total Time: 14 hrs 46 mins
 
-Java              11 hrs 22 mins  ███████████████████████▒░   92.73 %
-Groovy            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Bash              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Gradle            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-SQL               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java            13 hrs 44 mins  ███████████████████████▒░   93.09 %
+Bash            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+SQL             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+LOMBOK_CONFIG   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+XML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
