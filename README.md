@@ -53,16 +53,16 @@ Last Updated: Tuesday, September 9th, 2025, 4:19:18 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 15 hrs 44 mins
+Total Time: 23 hrs 16 mins
 
-Java              14 hrs          ██████████████████████▒░░   88.94 %
-Kotlin            19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Bash              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Docker            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-SQL               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-LOMBOK_CONFIG     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-XML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Java              19 hrs 28 mins  █████████████████████░░░░   83.59 %
+Kotlin            1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+XML               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Bash              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+Groovy            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Docker            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
