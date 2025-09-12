@@ -53,16 +53,16 @@ Last Updated: Thursday, September 11th, 2025, 4:18:45 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 26 hrs 37 mins
+Total Time: 26 hrs 39 mins
 
-Java              22 hrs 21 mins  █████████████████████░░░░   83.92 %
-Kotlin            1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-XML               26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Groovy            8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java              19 hrs 30 mins  ██████████████████▒░░░░░░   73.18 %
+Kotlin            1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+XML               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Groovy            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+Gradle            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Docker            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Gradle            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
