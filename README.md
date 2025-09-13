@@ -53,16 +53,12 @@ Last Updated: Friday, September 12th, 2025, 4:18:26 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 26 hrs 39 mins
+Total Time: 24 hrs 35 mins
 
-Java              19 hrs 30 mins  ██████████████████▒░░░░░░   73.18 %
-Kotlin            1 hr 50 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-XML               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Groovy            15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Gradle            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Docker            6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Java Properties   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Properties        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Java              15 hrs 42 mins  ███████████████▓░░░░░░░░░   63.26 %
+Kotlin            1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+XML               1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
