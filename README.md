@@ -53,12 +53,10 @@ Last Updated: Saturday, September 13th, 2025, 4:17:14 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 24 hrs 35 mins
+Total Time: 27 hrs 20 mins
 
-Java              15 hrs 42 mins  ███████████████▓░░░░░░░░░   63.26 %
-Kotlin            1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-XML               1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Other             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Java              11 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   39.22 %
+Other             2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 ```
 
 <!--END_SECTION:waka-->
