@@ -53,10 +53,11 @@ Last Updated: Sunday, September 14th, 2025, 4:17:45 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 27 hrs 20 mins
+Total Time: 29 hrs 29 mins
 
-Java              11 hrs 30 mins  █████████▓░░░░░░░░░░░░░░░   39.22 %
-Other             2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Java                11 hrs 25 mins  █████████░░░░░░░░░░░░░░░░   36.30 %
+Kotlin              2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other               2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
 ```
 
 <!--END_SECTION:waka-->
