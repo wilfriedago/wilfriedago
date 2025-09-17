@@ -53,10 +53,11 @@ Last Updated: Tuesday, September 16th, 2025, 4:18:39 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 29 hrs 57 mins
+Total Time: 27 hrs 25 mins
 
-Java                11 hrs 15 mins  ████████▓░░░░░░░░░░░░░░░░   35.22 %
-Other               2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Java                5 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 %
+Bash                2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Other               2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
 ```
 
 <!--END_SECTION:waka-->
