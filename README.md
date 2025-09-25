@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 24th, 2025, 4:18:51 AM
+Last Updated: Thursday, September 25th, 2025, 4:18:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tazama-lf/Full-Stack-Docker-Tazama](https://github.com/tazama-lf/Full-Stack-Docker-Tazama)<br>
-2. ⭐ Starred [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map)<br>
-3. ⭐ Starred [lukin/keywind](https://github.com/lukin/keywind)<br>
-4. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-5. ⭐ Starred [flowable/flowable-engine](https://github.com/flowable/flowable-engine)<br>
+1. ⭐ Starred [bufbuild/buf](https://github.com/bufbuild/buf)<br>
+2. ⭐ Starred [tazama-lf/Full-Stack-Docker-Tazama](https://github.com/tazama-lf/Full-Stack-Docker-Tazama)<br>
+3. ⭐ Starred [antfu/yak-shaving-map](https://github.com/antfu/yak-shaving-map)<br>
+4. ⭐ Starred [lukin/keywind](https://github.com/lukin/keywind)<br>
+5. ⬆️ Pushed 1 commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
