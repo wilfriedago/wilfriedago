@@ -53,13 +53,16 @@ Last Updated: Saturday, October 4th, 2025, 4:17:44 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 32 hrs 16 mins
+Total Time: 31 hrs 40 mins
 
-JavaScript        9 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-HTML              3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-SCSS              3 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Python            2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Other             1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+JavaScript        8 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.96 %
+SCSS              2 hrs 52 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+HTML              2 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+Python            1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+CSS               1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+Fluent            1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Bash              1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other             55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
