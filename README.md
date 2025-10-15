@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 14th, 2025, 4:19:21 AM
+Last Updated: Wednesday, October 15th, 2025, 4:19:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [skydoves/Pokedex](https://github.com/skydoves/Pokedex)<br>
-2. 🔱 Forked [wilfriedago/cconfetti](https://github.com/wilfriedago/cconfetti) from [joreilly/Confetti](https://github.com/joreilly/Confetti)<br>
-3. ⭐ Starred [joreilly/Confetti](https://github.com/joreilly/Confetti)<br>
-4. 🔱 Forked [wilfriedago/fineract-apps](https://github.com/wilfriedago/fineract-apps) from [ADORSYS-GIS/fineract-apps](https://github.com/ADORSYS-GIS/fineract-apps)<br>
-5. ⭐ Starred [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped)<br>
+1. ⭐ Starred [openMF/kmp-project-template](https://github.com/openMF/kmp-project-template)<br>
+2. ⭐ Starred [skydoves/Pokedex](https://github.com/skydoves/Pokedex)<br>
+3. 🔱 Forked [wilfriedago/confetti](https://github.com/wilfriedago/confetti) from [wilfriedago/confetti](https://github.com/wilfriedago/confetti)<br>
+4. ⭐ Starred [joreilly/Confetti](https://github.com/joreilly/Confetti)<br>
+5. 🔱 Forked [wilfriedago/fineract-apps](https://github.com/wilfriedago/fineract-apps) from [wilfriedago/fineract-apps](https://github.com/wilfriedago/fineract-apps)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
