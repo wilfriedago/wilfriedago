@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 16th, 2025, 4:18:48 AM
+Last Updated: Friday, October 17th, 2025, 4:19:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openMF/kmp-project-template](https://github.com/openMF/kmp-project-template)<br>
-2. ⭐ Starred [skydoves/Pokedex](https://github.com/skydoves/Pokedex)<br>
-3. 🔱 Forked [wilfriedago/confetti](https://github.com/wilfriedago/confetti) from [wilfriedago/confetti](https://github.com/wilfriedago/confetti)<br>
-4. ⭐ Starred [joreilly/Confetti](https://github.com/joreilly/Confetti)<br>
-5. 🔱 Forked [wilfriedago/fineract-apps](https://github.com/wilfriedago/fineract-apps) from [wilfriedago/fineract-apps](https://github.com/wilfriedago/fineract-apps)<br>
+1. 🔱 Forked [wilfriedago/rijksmuseum](https://github.com/wilfriedago/rijksmuseum) from [wilfriedago/rijksmuseum](https://github.com/wilfriedago/rijksmuseum)<br>
+2. ⭐ Starred [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)<br>
+3. ⭐ Starred [openMF/kmp-project-template](https://github.com/openMF/kmp-project-template)<br>
+4. ⭐ Starred [skydoves/Pokedex](https://github.com/skydoves/Pokedex)<br>
+5. 🔱 Forked [wilfriedago/confetti](https://github.com/wilfriedago/confetti) from [wilfriedago/confetti](https://github.com/wilfriedago/confetti)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
