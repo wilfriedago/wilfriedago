@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 23rd, 2025, 4:19:15 AM
+Last Updated: Friday, October 24th, 2025, 4:19:20 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mojaloop/iac-modules](https://github.com/mojaloop/iac-modules)<br>
-2. ⭐ Starred [mojaloop/helm](https://github.com/mojaloop/helm)<br>
-3. 🔱 Forked [wilfriedago/rijksmuseum](https://github.com/wilfriedago/rijksmuseum) from [wilfriedago/rijksmuseum](https://github.com/wilfriedago/rijksmuseum)<br>
-4. ⭐ Starred [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)<br>
-5. ⭐ Starred [openMF/kmp-project-template](https://github.com/openMF/kmp-project-template)<br>
+1. ⭐ Starred [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)<br>
+2. ⭐ Starred [mojaloop/iac-modules](https://github.com/mojaloop/iac-modules)<br>
+3. ⭐ Starred [mojaloop/helm](https://github.com/mojaloop/helm)<br>
+4. 🔱 Forked [wilfriedago/rijksmuseum](https://github.com/wilfriedago/rijksmuseum) from [wilfriedago/rijksmuseum](https://github.com/wilfriedago/rijksmuseum)<br>
+5. ⭐ Starred [fethij/Rijksmuseum](https://github.com/fethij/Rijksmuseum)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
