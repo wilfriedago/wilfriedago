@@ -53,12 +53,13 @@ Last Updated: Thursday, October 30th, 2025, 4:19:06 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 9 hrs 36 mins
+Total Time: 12 hrs 2 mins
 
-Python            1 hr 21 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Bash              55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Text              41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Other             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Python            1 hr 54 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+CSV               1 hr 37 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Text              1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Bash              55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
+Other             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
