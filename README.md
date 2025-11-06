@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 5th, 2025, 4:19:52 AM
+Last Updated: Thursday, November 6th, 2025, 4:22:51 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)<br>
-2. ⭐ Starred [confluentinc/cp-all-in-one](https://github.com/confluentinc/cp-all-in-one)<br>
-3. 🔱 Forked [BeninFintech/mojaloop-helm](https://github.com/BeninFintech/mojaloop-helm) from [BeninFintech/mojaloop-helm](https://github.com/BeninFintech/mojaloop-helm)<br>
-4. ⭐ Starred [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle)<br>
-5. ⭐ Starred [mojaloop/iac-modules](https://github.com/mojaloop/iac-modules)<br>
+1. ⭐ Starred [mojaloop/mojaloop-specification](https://github.com/mojaloop/mojaloop-specification)<br>
+2. ⭐ Starred [mojaloop/mojaloop](https://github.com/mojaloop/mojaloop)<br>
+3. 🔱 Forked [wilfriedago/kmp-starter-template](https://github.com/wilfriedago/kmp-starter-template) from [wilfriedago/kmp-starter-template](https://github.com/wilfriedago/kmp-starter-template)<br>
+4. ⭐ Starred [DevAtrii/Kmp-Starter-Template](https://github.com/DevAtrii/Kmp-Starter-Template)<br>
+5. ⭐ Starred [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
