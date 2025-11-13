@@ -53,13 +53,10 @@ Last Updated: Wednesday, November 12th, 2025, 4:20:36 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 34 hrs 28 mins
+Total Time: 31 hrs 31 mins
 
-Python            8 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
-Gettext Catalog   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Java              1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-JavaScript        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Other             41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Python            8 hrs           ██████░░░░░░░░░░░░░░░░░░░   24.38 %
+Other             1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
