@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 15th, 2025, 4:19:13 AM
+Last Updated: Sunday, November 16th, 2025, 4:22:54 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openMF/mcp-mifosx](https://github.com/openMF/mcp-mifosx)<br>
-2. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-3. ⭐ Starred [aaronksaunders/payload-react-router7-auth](https://github.com/aaronksaunders/payload-react-router7-auth)<br>
-4. ⭐ Starred [mojaloop/mojaloop-specification](https://github.com/mojaloop/mojaloop-specification)<br>
-5. ⭐ Starred [mojaloop/mojaloop](https://github.com/mojaloop/mojaloop)<br>
+1. ⭐ Starred [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)<br>
+2. ⭐ Starred [openMF/mcp-mifosx](https://github.com/openMF/mcp-mifosx)<br>
+3. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+4. ⭐ Starred [aaronksaunders/payload-react-router7-auth](https://github.com/aaronksaunders/payload-react-router7-auth)<br>
+5. ⭐ Starred [mojaloop/mojaloop-specification](https://github.com/mojaloop/mojaloop-specification)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
