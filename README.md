@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 24th, 2025, 4:31:29 AM
+Last Updated: Tuesday, November 25th, 2025, 4:23:24 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [thewlabs/simui](https://github.com/thewlabs/simui) from [thewlabs/simui](https://github.com/thewlabs/simui)<br>
-2. ⭐ Starred [dofu-lab/simui](https://github.com/dofu-lab/simui)<br>
-3. ⭐ Starred [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)<br>
-4. ⭐ Starred [openMF/mcp-mifosx](https://github.com/openMF/mcp-mifosx)<br>
-5. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+1. 🔱 Forked [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr) from [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr)<br>
+2. ⭐ Starred [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)<br>
+3. 🔱 Forked [thewlabs/simui](https://github.com/thewlabs/simui) from [thewlabs/simui](https://github.com/thewlabs/simui)<br>
+4. ⭐ Starred [dofu-lab/simui](https://github.com/dofu-lab/simui)<br>
+5. ⭐ Starred [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
