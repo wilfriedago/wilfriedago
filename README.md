@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 25th, 2025, 4:23:24 AM
+Last Updated: Wednesday, November 26th, 2025, 4:22:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr) from [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr)<br>
-2. ⭐ Starred [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)<br>
-3. 🔱 Forked [thewlabs/simui](https://github.com/thewlabs/simui) from [thewlabs/simui](https://github.com/thewlabs/simui)<br>
-4. ⭐ Starred [dofu-lab/simui](https://github.com/dofu-lab/simui)<br>
-5. ⭐ Starred [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)<br>
+1. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)<br>
+2. 🔱 Forked [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr) from [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr)<br>
+3. ⭐ Starred [deepseek-ai/DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR)<br>
+4. 🔱 Forked [thewlabs/simui](https://github.com/thewlabs/simui) from [thewlabs/simui](https://github.com/thewlabs/simui)<br>
+5. ⭐ Starred [dofu-lab/simui](https://github.com/dofu-lab/simui)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
