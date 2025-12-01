@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 30th, 2025, 4:31:29 AM
+Last Updated: Monday, December 1st, 2025, 4:46:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard) from [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard)<br>
-2. ⭐ Starred [ayn2op/discordo](https://github.com/ayn2op/discordo)<br>
-3. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-4. ⭐ Starred [lukeed/clsx](https://github.com/lukeed/clsx)<br>
-5. 🔱 Forked [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr) from [wilfriedago/deepseek-ocr](https://github.com/wilfriedago/deepseek-ocr)<br>
+1. 🔱 Forked [wilfriedago/formation-postgresql-18](https://github.com/wilfriedago/formation-postgresql-18) from [wilfriedago/formation-postgresql-18](https://github.com/wilfriedago/formation-postgresql-18)<br>
+2. ⭐ Starred [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18)<br>
+3. 🔱 Forked [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard) from [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard)<br>
+4. ⭐ Starred [ayn2op/discordo](https://github.com/ayn2op/discordo)<br>
+5. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
