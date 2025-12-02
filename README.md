@@ -34,13 +34,13 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 1st, 2025, 4:46:31 AM
+Last Updated: Tuesday, December 2nd, 2025, 4:28:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/formation-postgresql-18](https://github.com/wilfriedago/formation-postgresql-18) from [wilfriedago/formation-postgresql-18](https://github.com/wilfriedago/formation-postgresql-18)<br>
+1. 🔱 Forked [wilfriedago/formation-postgresql-18](https://github.com/wilfriedago/formation-postgresql-18) from [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18)<br>
 2. ⭐ Starred [NDXDeveloper/formation-postgresql-18](https://github.com/NDXDeveloper/formation-postgresql-18)<br>
-3. 🔱 Forked [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard) from [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard)<br>
+3. 🔱 Forked [wilfriedago/next-shadcn-admin-dashboard](https://github.com/wilfriedago/next-shadcn-admin-dashboard) from [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard)<br>
 4. ⭐ Starred [ayn2op/discordo](https://github.com/ayn2op/discordo)<br>
 5. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
