@@ -53,16 +53,15 @@ Last Updated: Tuesday, December 9th, 2025, 4:26:16 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 16 hrs 19 mins
+Total Time: 14 hrs 55 mins
 
-Java              14 hrs 3 mins   █████████████████████▓░░░   86.16 %
-Bash              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-AsciiDoc          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-.env file         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Java Properties   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Groovy            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java              13 hrs 19 mins  ██████████████████████▒░░   89.29 %
+XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+.env file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
