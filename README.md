@@ -53,15 +53,15 @@ Last Updated: Wednesday, December 10th, 2025, 4:30:27 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 14 hrs 55 mins
+Total Time: 14 hrs 6 mins
 
-Java              13 hrs 19 mins  ██████████████████████▒░░   89.29 %
-XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Gradle            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Shell Script      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-.env file         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java           13 hrs 13 mins  ███████████████████████▒░   93.76 %
+XML            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Gradle         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+.env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Mustache       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
