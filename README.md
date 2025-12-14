@@ -53,15 +53,11 @@ Last Updated: Saturday, December 13th, 2025, 4:23:22 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 8 hrs 56 mins
+Total Time: 8 hrs 9 mins
 
-Java           8 hrs 26 mins   ███████████████████████▓░   94.43 %
-XML            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Gradle         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-.env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Mustache       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java       7 hrs 30 mins   ███████████████████████░░   92.20 %
+SQL        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
