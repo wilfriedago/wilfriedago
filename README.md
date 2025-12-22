@@ -55,11 +55,13 @@ Last Updated: Sunday, December 21st, 2025, 4:34:42 AM
 ```python
 Total Time: 6 hrs 11 mins
 
-Java            5 hrs 35 mins   ██████████████████████▓░░   90.39 %
+Java            5 hrs 35 mins   ██████████████████████▓░░   90.32 %
 SQL             22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+INI             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 LOMBOK_CONFIG   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Shell Script    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+EditorConfig    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
