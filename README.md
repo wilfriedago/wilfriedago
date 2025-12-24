@@ -53,15 +53,13 @@ Last Updated: Tuesday, December 23rd, 2025, 4:35:06 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 6 hrs 11 mins
+Total Time: 4 hrs 51 mins
 
-Java            5 hrs 35 mins   ██████████████████████▓░░   90.32 %
-SQL             22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-INI             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-LOMBOK_CONFIG   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Shell Script    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-EditorConfig    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java           4 hrs 19 mins   ██████████████████████▒░░   89.23 %
+SQL            22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+INI            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+EditorConfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Groovy         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
