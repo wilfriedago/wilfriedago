@@ -53,13 +53,15 @@ Last Updated: Wednesday, December 24th, 2025, 4:33:19 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 4 hrs 51 mins
+Total Time: 2 hrs 59 mins
 
-Java           4 hrs 19 mins   ██████████████████████▒░░   89.23 %
-SQL            22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-INI            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-EditorConfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Groovy         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              2 hrs 42 mins   ██████████████████████▓░░   90.88 %
+XML               5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Java Properties   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Kotlin            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
