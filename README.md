@@ -53,16 +53,11 @@ Last Updated: Tuesday, December 30th, 2025, 4:36:43 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 1 hr 37 mins
+Total Time: 9 mins
 
-Java              1 hr 30 mins    ███████████████████████▒░   92.67 %
-XML               5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Bash              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-LOMBOK_CONFIG     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java   9 mins          ████████████████████████▒   96.97 %
+XML    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
