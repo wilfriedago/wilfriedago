@@ -53,16 +53,16 @@ Last Updated: Wednesday, February 11th, 2026, 5:24:48 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 3 hrs 46 mins
+Total Time: 2 hrs 54 mins
 
-Groovy            51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
-Java              51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-XML               27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
-.env file         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Gradle            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Bash              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-HTTP Request      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Groovy            51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.39 %
+Java              51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+XML               26 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Gradle            9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Java Properties   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+HTTP Request      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+textmate          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+GitIgnore file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
