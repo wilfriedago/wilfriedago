@@ -53,15 +53,16 @@ Last Updated: Thursday, March 5th, 2026, 5:11:02 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 30 hrs 37 mins
+Total Time: 29 hrs 36 mins
 
-Java              24 hrs 5 mins         ███████████████████▓░░░░░   78.65 %
-XML               1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Java Properties   43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Properties        25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Avro Schema       25 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Gradle            21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Groovy            9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Java              21 hrs 51 mins        ██████████████████▒░░░░░░   73.83 %
+XML               1 hr 35 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Java Properties   46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Groovy            35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Properties        27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Gradle            24 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Avro Schema       7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+SQL               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
