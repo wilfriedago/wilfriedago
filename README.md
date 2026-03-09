@@ -53,16 +53,15 @@ Last Updated: Sunday, March 8th, 2026, 5:07:26 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 25 hrs 4 mins
+Total Time: 12 hrs 35 mins
 
-Java              19 hrs 14 mins        ███████████████████▒░░░░░   76.74 %
-XML               1 hr 26 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-Java Properties   40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Groovy            26 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Properties        9 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Gradle            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-SQL               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-GitIgnore file    2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Java              9 hrs 5 mins          ██████████████████░░░░░░░   72.16 %
+XML               39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Groovy            26 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+Java Properties   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Gradle            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+SQL               2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Properties        1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
