@@ -53,14 +53,10 @@ Last Updated: Thursday, March 12th, 2026, 5:13:27 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 4 hrs 3 mins
+Total Time: 44 mins
 
-Java              1 hr 37 mins          ██████████░░░░░░░░░░░░░░░   39.86 %
-Groovy            26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-XML               20 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-Java Properties   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Gradle            3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Properties        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Java         27 mins               ███████████████▓░░░░░░░░░   62.09 %
+Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
