@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 15th, 2026, 5:25:49 AM
+Last Updated: Monday, March 16th, 2026, 5:47:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)<br>
-2. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)<br>
-3. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-4. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)<br>
-5. ⭐ Starred [Marve10s/Better-Fullstack](https://github.com/Marve10s/Better-Fullstack)<br>
+1. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
+2. ⭐ Starred [volcengine/OpenViking](https://github.com/volcengine/OpenViking)<br>
+3. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)<br>
+4. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+5. ⭐ Starred [karpathy/autoresearch](https://github.com/karpathy/autoresearch)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
