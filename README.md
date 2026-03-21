@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 20th, 2026, 5:14:00 AM
+Last Updated: Saturday, March 21st, 2026, 5:04:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)<br>
-2. ⭐ Starred [OWASP/Top10](https://github.com/OWASP/Top10)<br>
-3. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
-4. ⭐ Starred [TanStack/devtools](https://github.com/TanStack/devtools)<br>
-5. ⭐ Starred [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec)<br>
+1. ⭐ Starred [Kotlin/kotlin-lsp](https://github.com/Kotlin/kotlin-lsp)<br>
+2. ⭐ Starred [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro)<br>
+3. ⭐ Starred [OWASP/Top10](https://github.com/OWASP/Top10)<br>
+4. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)<br>
+5. ⭐ Starred [TanStack/devtools](https://github.com/TanStack/devtools)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
