@@ -53,14 +53,15 @@ Last Updated: Thursday, March 26th, 2026, 5:39:16 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 7 hrs 18 mins
+Total Time: 6 hrs 23 mins
 
-Kotlin                3 hrs 58 mins         █████████████▒░░░░░░░░░░░   53.50 %
-Text                  21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
-Java Properties       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-XML                   19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
-Java                  13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Other                 7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Kotlin                3 hrs 48 mins         ███████████████░░░░░░░░░░   59.43 %
+Text                  21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Java Properties       19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+XML                   19 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+TypeScript            4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+GraphQL               3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Properties            2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
