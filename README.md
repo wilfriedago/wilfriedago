@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 23rd, 2026, 6:03:30 AM
+Last Updated: Friday, April 24th, 2026, 6:05:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [blnkfinance/blnk](https://github.com/blnkfinance/blnk)<br>
-2. 🔱 Forked [thewlabs/design-system-v2](https://github.com/thewlabs/design-system-v2) from [formancehq/design-system](https://github.com/formancehq/design-system)<br>
-3. ⭐ Starred [formancehq/design-system](https://github.com/formancehq/design-system)<br>
-4. ⭐ Starred [github/awesome-copilot](https://github.com/github/awesome-copilot)<br>
-5. ⭐ Starred [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S)<br>
+1. 🔱 Forked [wilfriedago/midaz-sdk-typescript](https://github.com/wilfriedago/midaz-sdk-typescript) from [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
+2. ⭐ Starred [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
+3. ⭐ Starred [blnkfinance/blnk](https://github.com/blnkfinance/blnk)<br>
+4. 🔱 Forked [thewlabs/design-system-v2](https://github.com/thewlabs/design-system-v2) from [formancehq/design-system](https://github.com/formancehq/design-system)<br>
+5. ⭐ Starred [formancehq/design-system](https://github.com/formancehq/design-system)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
