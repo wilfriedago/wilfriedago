@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 26th, 2026, 6:04:24 AM
+Last Updated: Monday, April 27th, 2026, 6:25:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [formancehq/stack](https://github.com/formancehq/stack)<br>
-2. ⭐ Starred [frappe/crm](https://github.com/frappe/crm)<br>
-3. 🔱 Forked [wilfriedago/midaz-sdk-typescript](https://github.com/wilfriedago/midaz-sdk-typescript) from [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
-4. ⭐ Starred [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
-5. ⭐ Starred [blnkfinance/blnk](https://github.com/blnkfinance/blnk)<br>
+1. ⭐ Starred [transmission/transmission](https://github.com/transmission/transmission)<br>
+2. ⭐ Starred [formancehq/stack](https://github.com/formancehq/stack)<br>
+3. ⭐ Starred [frappe/crm](https://github.com/frappe/crm)<br>
+4. 🔱 Forked [wilfriedago/midaz-sdk-typescript](https://github.com/wilfriedago/midaz-sdk-typescript) from [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
+5. ⭐ Starred [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
