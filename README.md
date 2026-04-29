@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 28th, 2026, 6:26:31 AM
+Last Updated: Wednesday, April 29th, 2026, 6:20:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [temporalio/samples-server](https://github.com/temporalio/samples-server)<br>
-2. ⭐ Starred [transmission/transmission](https://github.com/transmission/transmission)<br>
-3. ⭐ Starred [formancehq/stack](https://github.com/formancehq/stack)<br>
-4. ⭐ Starred [frappe/crm](https://github.com/frappe/crm)<br>
-5. 🔱 Forked [wilfriedago/midaz-sdk-typescript](https://github.com/wilfriedago/midaz-sdk-typescript) from [LerianStudio/midaz-sdk-typescript](https://github.com/LerianStudio/midaz-sdk-typescript)<br>
+1. 🔱 Forked [wilfriedago/crudify](https://github.com/wilfriedago/crudify) from [devalade/crudify](https://github.com/devalade/crudify)<br>
+2. ⭐ Starred [temporalio/samples-server](https://github.com/temporalio/samples-server)<br>
+3. ⭐ Starred [transmission/transmission](https://github.com/transmission/transmission)<br>
+4. ⭐ Starred [formancehq/stack](https://github.com/formancehq/stack)<br>
+5. ⭐ Starred [frappe/crm](https://github.com/frappe/crm)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
