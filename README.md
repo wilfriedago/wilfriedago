@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 29th, 2026, 6:20:43 AM
+Last Updated: Thursday, April 30th, 2026, 6:24:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [wilfriedago/crudify](https://github.com/wilfriedago/crudify) from [devalade/crudify](https://github.com/devalade/crudify)<br>
-2. ⭐ Starred [temporalio/samples-server](https://github.com/temporalio/samples-server)<br>
-3. ⭐ Starred [transmission/transmission](https://github.com/transmission/transmission)<br>
-4. ⭐ Starred [formancehq/stack](https://github.com/formancehq/stack)<br>
-5. ⭐ Starred [frappe/crm](https://github.com/frappe/crm)<br>
+1. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
+2. 🔱 Forked [wilfriedago/crudify](https://github.com/wilfriedago/crudify) from [devalade/crudify](https://github.com/devalade/crudify)<br>
+3. ⭐ Starred [temporalio/samples-server](https://github.com/temporalio/samples-server)<br>
+4. ⭐ Starred [transmission/transmission](https://github.com/transmission/transmission)<br>
+5. ⭐ Starred [formancehq/stack](https://github.com/formancehq/stack)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
