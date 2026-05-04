@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 3rd, 2026, 6:23:44 AM
+Last Updated: Monday, May 4th, 2026, 6:35:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jordwalke/FaxJs](https://github.com/jordwalke/FaxJs)<br>
-2. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
-3. 🔱 Forked [wilfriedago/crudify](https://github.com/wilfriedago/crudify) from [devalade/crudify](https://github.com/devalade/crudify)<br>
-4. ⭐ Starred [temporalio/samples-server](https://github.com/temporalio/samples-server)<br>
-5. ⭐ Starred [transmission/transmission](https://github.com/transmission/transmission)<br>
+1. ⭐ Starred [devalade/crudify](https://github.com/devalade/crudify)<br>
+2. ⭐ Starred [jordwalke/FaxJs](https://github.com/jordwalke/FaxJs)<br>
+3. ⭐ Starred [warpdotdev/warp](https://github.com/warpdotdev/warp)<br>
+4. 🔱 Forked [wilfriedago/crudify](https://github.com/wilfriedago/crudify) from [devalade/crudify](https://github.com/devalade/crudify)<br>
+5. ⭐ Starred [temporalio/samples-server](https://github.com/temporalio/samples-server)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
