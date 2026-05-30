@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 29th, 2026, 7:51:42 AM
+Last Updated: Saturday, May 30th, 2026, 6:42:37 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+1. ⭐ Starred [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp)<br>
 2. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
 3. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-4. ⭐ Starred [formancehq/helm](https://github.com/formancehq/helm)<br>
-5. 🔱 Forked [wilfriedago/uniface](https://github.com/wilfriedago/uniface) from [yakhyo/uniface](https://github.com/yakhyo/uniface)<br>
+4. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
+5. ⭐ Starred [formancehq/helm](https://github.com/formancehq/helm)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
