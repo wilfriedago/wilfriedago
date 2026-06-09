@@ -53,15 +53,13 @@ Last Updated: Monday, June 8th, 2026, 8:51:05 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 66 hrs 29 mins
+Total Time: 63 hrs 59 mins
 
-TypeScript    40 hrs 6 mins         ███████████████░░░░░░░░░░   60.17 %
-CSS           10 hrs 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
-XML           54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JavaScript    47 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-HTML          28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Java          16 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Python        11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+TypeScript    40 hrs 18 mins        ███████████████▓░░░░░░░░░   62.65 %
+CSS           9 hrs 35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+JavaScript    1 hr                  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+HTML          27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Other         21 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
