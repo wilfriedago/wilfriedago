@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 2nd, 2026, 7:27:42 AM
+Last Updated: Friday, July 3rd, 2026, 7:17:13 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto)<br>
-2. ⭐ Starred [hadolint/hadolint](https://github.com/hadolint/hadolint)<br>
-3. 🔱 Forked [wilfriedago/PaperDesk](https://github.com/wilfriedago/PaperDesk) from [tanjavetter04/PaperDesk](https://github.com/tanjavetter04/PaperDesk)<br>
-4. ⭐ Starred [tanjavetter04/PaperDesk](https://github.com/tanjavetter04/PaperDesk)<br>
-5. ⭐ Starred [stevekinney/cinder](https://github.com/stevekinney/cinder)<br>
+1. 🔱 Forked [wilfriedago/typst-paris-saclay-thesis-flat](https://github.com/wilfriedago/typst-paris-saclay-thesis-flat) from [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
+2. ⭐ Starred [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
+3. ⭐ Starred [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto)<br>
+4. ⭐ Starred [hadolint/hadolint](https://github.com/hadolint/hadolint)<br>
+5. 🔱 Forked [wilfriedago/PaperDesk](https://github.com/wilfriedago/PaperDesk) from [tanjavetter04/PaperDesk](https://github.com/tanjavetter04/PaperDesk)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
