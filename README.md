@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 19th, 2026, 6:26:55 AM
+Last Updated: Monday, July 20th, 2026, 6:42:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)<br>
-2. 🔱 Forked [wilfriedago/typst-paris-saclay-thesis-flat](https://github.com/wilfriedago/typst-paris-saclay-thesis-flat) from [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
-3. ⭐ Starred [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
-4. ⭐ Starred [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto)<br>
-5. ⭐ Starred [hadolint/hadolint](https://github.com/hadolint/hadolint)<br>
+1. ⭐ Starred [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm)<br>
+2. ⭐ Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)<br>
+3. 🔱 Forked [wilfriedago/typst-paris-saclay-thesis-flat](https://github.com/wilfriedago/typst-paris-saclay-thesis-flat) from [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
+4. ⭐ Starred [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
+5. ⭐ Starred [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
