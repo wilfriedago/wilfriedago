@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 20th, 2026, 6:42:00 AM
+Last Updated: Tuesday, July 21st, 2026, 6:24:36 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm)<br>
-2. ⭐ Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)<br>
-3. 🔱 Forked [wilfriedago/typst-paris-saclay-thesis-flat](https://github.com/wilfriedago/typst-paris-saclay-thesis-flat) from [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
-4. ⭐ Starred [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
-5. ⭐ Starred [pivoshenko/kasetto](https://github.com/pivoshenko/kasetto)<br>
+1. ⭐ Starred [surveyjs/survey-library](https://github.com/surveyjs/survey-library)<br>
+2. ⭐ Starred [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine)<br>
+3. ⭐ Starred [grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm)<br>
+4. ⭐ Starred [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp)<br>
+5. 🔱 Forked [wilfriedago/typst-paris-saclay-thesis-flat](https://github.com/wilfriedago/typst-paris-saclay-thesis-flat) from [sebmestrallet/typst-paris-saclay-thesis-flat](https://github.com/sebmestrallet/typst-paris-saclay-thesis-flat)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
