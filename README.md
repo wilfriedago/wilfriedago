@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 30th, 2026, 6:24:03 AM
+Last Updated: Friday, July 31st, 2026, 6:40:10 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3)<br>
-2. 🔱 Forked [wilfriedago/workflow-engine-flowable-BPMN-hexagonal](https://github.com/wilfriedago/workflow-engine-flowable-BPMN-hexagonal) from [heyuall/workflow-engine---flowable-BPMN---hexagonal](https://github.com/heyuall/workflow-engine---flowable-BPMN---hexagonal)<br>
-3. ⭐ Starred [heyuall/workflow-engine---flowable-BPMN---hexagonal](https://github.com/heyuall/workflow-engine---flowable-BPMN---hexagonal)<br>
-4. 🔱 Forked [wilfriedago/ruoyi-vue-pro](https://github.com/wilfriedago/ruoyi-vue-pro) from [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)<br>
-5. ⭐ Starred [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)<br>
+1. ⭐ Starred [frappe/wiki](https://github.com/frappe/wiki)<br>
+2. ⭐ Starred [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech)<br>
+3. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)<br>
+4. ⭐ Starred [openai/codex-security](https://github.com/openai/codex-security)<br>
+5. ⭐ Starred [formancehq/payments](https://github.com/formancehq/payments)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
