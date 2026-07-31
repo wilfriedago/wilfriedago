@@ -53,10 +53,11 @@ Last Updated: Thursday, July 30th, 2026, 6:24:03 AM
 <!--START_SECTION:waka-->
 
 ```python
-Total Time: 33 hrs 21 mins
+Total Time: 29 hrs 57 mins
 
-Kotlin       11 hrs 31 mins        ████████▒░░░░░░░░░░░░░░░░   33.08 %
-Other        1 hr 27 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Kotlin            8 hrs 3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+TypeScript        2 hrs 51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Other             1 hr 44 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
