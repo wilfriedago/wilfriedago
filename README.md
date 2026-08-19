@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 18th, 2026, 4:30:48 AM
+Last Updated: Wednesday, August 19th, 2026, 4:32:29 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [goww7/awesome-islamic-finance](https://github.com/goww7/awesome-islamic-finance)<br>
-2. 🔱 Forked [wilfriedago/yevi](https://github.com/wilfriedago/yevi) from [odoun-ai/yevi](https://github.com/odoun-ai/yevi)<br>
-3. ⭐ Starred [odoun-ai/yevi](https://github.com/odoun-ai/yevi)<br>
-4. 🔱 Forked [wilfriedago/shusingh](https://github.com/wilfriedago/shusingh) from [shusingh/shusingh.github.io](https://github.com/shusingh/shusingh.github.io)<br>
-5. ⭐ Starred [shusingh/shusingh.github.io](https://github.com/shusingh/shusingh.github.io)<br>
+1. 🔱 Forked [wilfriedago/jube](https://github.com/wilfriedago/jube) from [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring)<br>
+2. ⭐ Starred [jube-home/aml-fraud-transaction-monitoring](https://github.com/jube-home/aml-fraud-transaction-monitoring)<br>
+3. ⭐ Starred [goww7/awesome-islamic-finance](https://github.com/goww7/awesome-islamic-finance)<br>
+4. 🔱 Forked [wilfriedago/yevi](https://github.com/wilfriedago/yevi) from [odoun-ai/yevi](https://github.com/odoun-ai/yevi)<br>
+5. ⭐ Starred [odoun-ai/yevi](https://github.com/odoun-ai/yevi)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
