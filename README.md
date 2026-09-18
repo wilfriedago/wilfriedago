@@ -12,7 +12,7 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 
 ## 🎨 Languages and tools
 
-[![My skills](https://skillicons.dev/icons?i=typescript,js,nodejs,nest,java,kotlin,spring,python,fastapi,django,aws,docker,vscode,idea,tailwind&perline=15)](https://wilfriedago.dev/about#skills)
+[![My skills](https://skillicons.dev/icons?i=java,kotlin,spring,typescript,js,nodejs,nest,python,fastapi,django,aws,docker,vscode,idea,tailwind&perline=15)](https://wilfriedago.dev/about#skills)
 
 ## 📫 Get in touch
 [![web](https://img.shields.io/badge/WEBSITE-12100E?logo=google-earth&color=282A36)][website]
