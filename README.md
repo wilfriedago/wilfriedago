@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 9th, 2026, 12:28:47 PM
+Last Updated: Tuesday, November 10th, 2026, 12:02:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [davidvkimball/vaultcms](https://github.com/davidvkimball/vaultcms)<br>
-2. ⭐ Starred [frappe/builder](https://github.com/frappe/builder)<br>
-3. ⭐ Starred [jestjs/jest](https://github.com/jestjs/jest)<br>
-4. ⬆️ Pushed undefined commit(s) to [wilfriedago/dotfiles](https://github.com/wilfriedago/dotfiles)<br>
-5. ⬆️ Pushed undefined commit(s) to [wilfriedago/tigerbeetle-platform](https://github.com/wilfriedago/tigerbeetle-platform)<br>
+1. ⭐ Starred [bpmn-io/react-bpmn](https://github.com/bpmn-io/react-bpmn)<br>
+2. ⭐ Starred [darkreader/darkreader](https://github.com/darkreader/darkreader)<br>
+3. ⭐ Starred [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)<br>
+4. ⭐ Starred [bpmn-io/bpmn-js-example-angular](https://github.com/bpmn-io/bpmn-js-example-angular)<br>
+5. ⭐ Starred [camunda/camunda-bpmn-moddle](https://github.com/camunda/camunda-bpmn-moddle)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
