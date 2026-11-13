@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 12th, 2026, 12:07:39 PM
+Last Updated: Friday, November 13th, 2026, 11:49:44 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [tsu-moe/tsu-stack](https://github.com/tsu-moe/tsu-stack)<br>
-2. ⭐ Starred [bpmn-io/bpmn-auto-layout](https://github.com/bpmn-io/bpmn-auto-layout)<br>
-3. ⭐ Starred [cerbos/cerbos](https://github.com/cerbos/cerbos)<br>
-4. ⭐ Starred [redisson/redisson](https://github.com/redisson/redisson)<br>
-5. ⭐ Starred [Ahoo-Wang/Simba](https://github.com/Ahoo-Wang/Simba)<br>
+1. ⭐ Starred [Kotlin/KMP-App-Template-Native](https://github.com/Kotlin/KMP-App-Template-Native)<br>
+2. ⭐ Starred [tsu-moe/tsu-stack](https://github.com/tsu-moe/tsu-stack)<br>
+3. ⭐ Starred [bpmn-io/bpmn-auto-layout](https://github.com/bpmn-io/bpmn-auto-layout)<br>
+4. ⭐ Starred [cerbos/cerbos](https://github.com/cerbos/cerbos)<br>
+5. ⭐ Starred [redisson/redisson](https://github.com/redisson/redisson)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
