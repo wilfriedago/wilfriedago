@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 17th, 2026, 12:44:30 PM
+Last Updated: Wednesday, November 18th, 2026, 12:36:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [stevekinney/corvidae](https://github.com/stevekinney/corvidae)<br>
-2. 🔱 Forked [wilfriedago/helium-services](https://github.com/wilfriedago/helium-services) from [imputnet/helium-services](https://github.com/imputnet/helium-services)<br>
-3. ⭐ Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)<br>
-4. ⭐ Starred [Kotlin/KMP-App-Template-Native](https://github.com/Kotlin/KMP-App-Template-Native)<br>
-5. ⭐ Starred [tsu-moe/tsu-stack](https://github.com/tsu-moe/tsu-stack)<br>
+1. ⭐ Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br>
+2. ⭐ Starred [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)<br>
+3. ⭐ Starred [stevekinney/corvidae](https://github.com/stevekinney/corvidae)<br>
+4. 🔱 Forked [wilfriedago/helium-services](https://github.com/wilfriedago/helium-services) from [imputnet/helium-services](https://github.com/imputnet/helium-services)<br>
+5. ⭐ Starred [imputnet/helium-services](https://github.com/imputnet/helium-services)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
