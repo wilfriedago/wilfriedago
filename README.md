@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 20th, 2026, 12:27:55 PM
+Last Updated: Saturday, November 21st, 2026, 12:02:59 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)<br>
-2. ⭐ Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br>
-3. ⭐ Starred [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)<br>
-4. ⭐ Starred [stevekinney/corvidae](https://github.com/stevekinney/corvidae)<br>
-5. 🔱 Forked [wilfriedago/helium-services](https://github.com/wilfriedago/helium-services) from [imputnet/helium-services](https://github.com/imputnet/helium-services)<br>
+1. ⭐ Starred [sdorra/content-collections](https://github.com/sdorra/content-collections)<br>
+2. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)<br>
+3. ⭐ Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br>
+4. ⭐ Starred [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)<br>
+5. ⭐ Starred [stevekinney/corvidae](https://github.com/stevekinney/corvidae)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
