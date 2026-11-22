@@ -34,15 +34,15 @@ Welcome to my GitHub bio. I'm a software engineer, open-source contributor, and 
 	<br>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 21st, 2026, 12:02:59 PM
+Last Updated: Sunday, November 22nd, 2026, 12:14:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sdorra/content-collections](https://github.com/sdorra/content-collections)<br>
-2. ⭐ Starred [statelyai/xstate](https://github.com/statelyai/xstate)<br>
-3. ⭐ Starred [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)<br>
-4. ⭐ Starred [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)<br>
-5. ⭐ Starred [stevekinney/corvidae](https://github.com/stevekinney/corvidae)<br>
+1. ⭐ Starred [hyoban/hyoban.cc](https://github.com/hyoban/hyoban.cc)<br>
+2. ⭐ Starred [TanStack/router](https://github.com/TanStack/router)<br>
+3. ⬆️ Pushed undefined commit(s) to [wilfriedago/astrowind](https://github.com/wilfriedago/astrowind)<br>
+4. 💪 Opened PR [#21](undefined) in [wilfriedago/astrowind](https://github.com/wilfriedago/astrowind)<br>
+5. ⭐ Starred [sdorra/content-collections](https://github.com/sdorra/content-collections)<br>
 <!--RECENT_ACTIVITY:end-->
 </details>
 
